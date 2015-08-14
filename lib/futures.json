@@ -1,8 +1,8 @@
 {
   "futures": [
     {
-      "name" : "Communal Luxury",
-      "call_sign": "CLUX",
+      "name" : "",
+      "call_sign": "",
       "abstract": "50 word text here in markdown"
     }
   ]
