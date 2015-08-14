@@ -25,7 +25,7 @@ Physical installations of the _Åzone Terminal_, a multi-screen interactive envi
 Signing up for the market is free and open to the public. A finite amount of the internal currency, `cåin`, will be distributed to begin investing. Playing the market will allow investors to increase their portfolio over time.
 
 ### Advisers
-A group of advisers will create the contracts, feed the information stream, and design the indices. Investors can advance to this level by displaying acumen in the market. Advisers are listed in the `[contributors.json](/contributors.json)` file.
+A group of advisers will create the contracts, feed the information stream, and design the indices. Investors can advance to this level by displaying acumen in the market. Advisers are listed in the [contributors.json](/contributors.json) file.
 
 ### Market Engine
 @dochugo is building the market engine that will create the market pricing algorithm.
