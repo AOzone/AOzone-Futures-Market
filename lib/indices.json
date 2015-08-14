@@ -1,7 +1,19 @@
 {
   "indices": [
     {
-      "name"
+      "name" : "Communal Luxury",
+      "call_sign": "CLUX",
+      "abstract": "50 word text here in markdown"
+    },
+    {
+      "name": "Californian Ideology",
+      "call_sign": "CALI",
+      "abstract": "50 word text here in markdown"
+    },
+    {
+      "name": "New Renaissance",
+      "call_sign": "NEWR",
+      "abstract": "50 word text here in markdown"
     }
   ]
 }
