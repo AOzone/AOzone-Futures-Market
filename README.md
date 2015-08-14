@@ -1,4 +1,5 @@
 # Åzone Futures Market
+_pron. "Ozone"
 
 ## What?
 The Åzone Futures Market is a didactic machine for structuring a general public discourse on the effects of new technologies through a simulated futures investment market.
