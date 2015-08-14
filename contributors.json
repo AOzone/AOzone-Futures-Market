@@ -1,0 +1,45 @@
+{
+  "contributors": {
+    "curatorial": [
+      {
+        "name": "Troy Conrad Therrien",
+        "email": "tctherrien@guggenheim.org",
+        "github": "troyth",
+        "twitter": "troytherrien",
+        "website": "http://guggenheim.org"
+      },
+      {
+        "name": "Ashley Mendelsohn",
+        "email": "amendelsohn@guggenheim.org",
+        "github": "admendelsohn",
+        "twitter": "",
+        "website": "http://guggenheim.org"
+      }
+    ],
+    "development": [
+      {
+        "name": "Hugo Liu",
+        "email": "",
+        "github": "dochugo",
+        "twitter": "",
+        "website": ""
+      },
+      {
+        "name": "Charles Broskoski",
+        "email": "",
+        "github": "broskoski",
+        "twitter": "",
+        "website": ""
+      }
+    ],
+    "design": [
+      {
+        "name": "Marco Ferrari",
+        "email": "",
+        "github": "",
+        "twitter": "",
+        "website": ""
+      }
+    ]
+  }
+}
