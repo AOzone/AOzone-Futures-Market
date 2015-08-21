@@ -1,9 +1,16 @@
 {
   "futures": [
     {
-      "name" : "",
-      "call_sign": "",
-      "abstract": "50 word text here in markdown"
+      "name" : "Autonomous Killer Robots",
+      "call_sign": "KBOT",
+      "image": "bigdog.jpg",
+      "abstract": "Autonomous Killer Robots have been described as the third revolution in warfare, after gunpowder and nuclear arms. In the form of armed unmanned quadcopters, all-terrain vehicles, submarmines, and humanoids/androids, for example, they use Artificial Intelligence (AI) technology to select targets based on pre-defined criteria and engage them without human intervention, often with the intent to kill."
+    },
+    {
+      "name" : "Self-Driving Vehicles",
+      "call_sign": "SDRV",
+      "image": "googlecar.jpg",
+      "abstract": "Cars that drive themselves, using sensors to perceive and interpret the environment around them to navigate our existing roads, could be safer and more energy and time efficient, allowing commuters to perform other tasks while in transit. They would increase mobility for those who can't drive themselves and would transform other transport functions, such as long-distance trucking, and infrastructures, like traffic lights."
     }
   ]
 }
