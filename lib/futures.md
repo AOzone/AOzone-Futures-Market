@@ -1,4 +1,4 @@
-# Automation
+### Automation
 
 * Self-Driving Cars
 * Autonomous Killer Robots
@@ -6,7 +6,7 @@
 * Singularity
 
 
-# Bio-Tech
+### Bio-Tech
 
 * Bio-Surveilance
 * Genetic Manipulation
@@ -15,7 +15,7 @@
 * Doping
 
 
-# Governance
+### Governance
 
 * Direct Democracy
 * Extrastate Sovereignty
@@ -24,7 +24,7 @@
 * Beyond Democracy
 
 
-# Social Effects
+### Social Effects
 
 * VR Addiction
 * Trustlessness
@@ -33,7 +33,7 @@
 * Off-Grid Living
 
 
-# Resources and Territories
+### Resources and Territories
 
 * Cheap Energy
 * Outer Space Bounty
