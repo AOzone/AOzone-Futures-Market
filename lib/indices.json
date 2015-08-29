@@ -3,17 +3,38 @@
     {
       "name" : "Communal Luxury",
       "call_sign": "CLUX",
-      "abstract": "50 word text here in markdown"
+      "abstract": "50 word text here in markdown",
+      "formula": "0.5*BLAA+0.5*BLAH"
     },
     {
       "name": "Californian Ideology",
       "call_sign": "CALI",
-      "abstract": "50 word text here in markdown"
+      "abstract": "50 word text here in markdown",
+      "formula": "0.5*BLAA+0.5*BLAH"
     },
     {
       "name": "New Renaissance",
       "call_sign": "NEWR",
-      "abstract": "50 word text here in markdown"
+      "abstract": "50 word text here in markdown",
+      "formula": "0.5*BLAA+0.5*BLAH"
+    },
+    {
+      "name": "Transhumanism",
+      "call_sign": "TRNS",
+      "abstract": "50 word text here in markdown",
+      "formula": "0.5*BLAA+0.5*BLAH"
+    },
+    {
+      "name": "Post-Capitalism",
+      "call_sign": "POCA",
+      "abstract": "50 word text here in markdown",
+      "formula": "0.5*BLAA+0.5*BLAH"
+    },
+    {
+      "name": "Promethean",
+      "call_sign": "PROM",
+      "abstract": "50 word text here in markdown",
+      "formula": "0.5*BLAA+0.5*BLAH"
     }
   ]
 }
