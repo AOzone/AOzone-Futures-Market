@@ -4,6 +4,7 @@
 * Autonomous Killer Robots
 * Workforce Automation
 * Singularity
+* Bot-Human interface/co-existence
 
 
 ### Bio-Tech
@@ -13,6 +14,7 @@
 * Superlongevity
 * Bio-Synthesis
 * Doping
+* Intelligence Amplification
 
 
 ### Governance
