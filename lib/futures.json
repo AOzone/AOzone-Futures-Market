@@ -1,51 +1,23 @@
 {
   "futures": [
     {
-      "name" : "Autonomous Killer Robots Immunity",
-      "call_sign": "KBOT",
-      "image": "bigdog.jpg",
-      "abstract": "Autonomous Killer Robots have been described as the third revolution in warfare, after gunpowder and nuclear arms. Armed unmanned quadcopters, all-terrain vehicles, submarmines, or androids, for example, they use Artificial Intelligence (AI) technology to select targets based on pre-defined criteria and engage them without human intervention, often with the intent to kill. Insure our saftey from this future."
-    },
-    {
-      "name" : "Self-Driving Vehicles",
-      "call_sign": "SDRV",
-      "image": "googlecar.jpg",
-      "abstract": "Cars that drive themselves, using sensors to perceive and interpret the environment around them to navigate our existing roads, could be safer and more energy and time efficient, allowing commuters to perform other tasks while in transit. They would increase mobility for those who can't drive themselves and would transform other transport functions, such as long-distance trucking, and infrastructures, like traffic lights."
-    },
-    {
-      "name" : "Genetic Cloaking",
-      "call_sign": "GENC",
-      "image": "Dewey-Hagborg_face.jpg",
-      "abstract": "Your body is constantly shedding information that can be traced back to you. Whereas fingerprints allowed for unique identification, today hair, semen and other DNA-carrying organic samples can be developed into 3D recreations of your physical form, opening the door to a new surveilance techniques. Genetic Cloaking is a form of counter-bio-surveilance that masks your genetic identity."
-    },
-    {
-      "name" : "Smart Things Code of Conduct",
-      "call_sign": "SMRT",
-      "image": "",
-      "abstract": "As more and more of the objects around us begin to have embedded computers and connect to the Internet and one another, they will vacuum up data about every aspect of our lives and send it to the companies and governments that monitor them. The Smart Things Code of Conduct is a set of laws to regulate the collection, transfer and use of this data."
-    },
-    {
-      "name" : "Basic Universal Income",
-      "call_sign": "BSIC",
-      "image": "",
+      "name" : "Universal Impregnable Historical Register",
+      "call_sign": "",
       "abstract": ""
     },
     {
-      "name" : "Free College Education",
-      "call_sign": "FRED",
-      "image": "",
+      "name" : "Bot Politician",
+      "call_sign": "",
       "abstract": ""
     },
     {
-      "name" : "Legal Professional Doping",
-      "call_sign": "PROD",
-      "image": "",
-      "abstract": "More information leads to more anxiety. The more connected we are, the more we are expected to know at all times, and the more our connection anxiety grows. Legalizing chemical doping–drugs–is one way to make this anxiety bareable while maintaining our productivity, from the track to the field to the cubicle to the boardroom."
+      "name" : "Smart Contract Family",
+      "call_sign": "",
+      "abstract": ""
     },
     {
-      "name" : "Direct Democracy",
-      "call_sign": "DRTY",
-      "image": "",
+      "name" : "VR Memory Playback",
+      "call_sign": "",
       "abstract": ""
     },
     {
@@ -55,15 +27,84 @@
       "abstract": ""
     },
     {
-      "name" : "Digital Worker Union",
-      "call_sign": "DIGU",
-      "image": "",
+        "name" : "Mind Uploading",
+        "call_sign": "",
+        "image": "",
+        "abstract": ""
+    },
+    {
+      "name" : "Implantable Robotic Medicine",
+      "call_sign": "",
       "abstract": ""
     },
     {
+      "name" : "Genetic Identity Patent",
+      "call_sign": "",
+      "abstract": ""
+    },
+    {
+      "name" : "Prenatal Immunization",
+      "call_sign": "",
+      "abstract": ""
+    },
+    {
+      "name" : "Super Longetivity",
+      "call_sign": "",
+      "abstract": ""
+    },
+    {
+      "name" : "Drone Authority Ban",
+      "call_sign": "",
+      "abstract": ""
+    },
+    {
+      "name" : "Human Driver Ban",
+      "call_sign": "",
+      "abstract": ""
+    }
+    {
+      "name" : "Dismantling the Internet",
+      "call_sign": "",
+      "abstract": ""
+    }
+    {
+      "name" : "Singularity",
+      "call_sign": "",
+      "abstract": ""
+    }
+    {
+      "name" : "Dissolution of Intellectual Propery",
+      "call_sign": "",
+      "abstract": ""
+    }
+    {
+      "name" : "Basic Universal Welfare/Income",
+      "call_sign": "",
+      "abstract": ""
+    }
+    {
+      "name" : "Legalization of All Performance Enhancement Drugs",
+      "call_sign": "",
+      "abstract": ""
+    }
+    {
+      "name" : "10-hour Work Week",
+      "call_sign": "",
+      "abstract": ""
+    }
+    {
+      "name" : "Cheap Energy",
+      "call_sign": "",
+      "abstract": ""
+    }
+    {
+      "name" : "Global Net Neutrality",
+      "call_sign": "",
+      "abstract": ""
+    }
+    {
       "name" : "",
       "call_sign": "",
-      "image": "",
       "abstract": ""
     }
   ]
