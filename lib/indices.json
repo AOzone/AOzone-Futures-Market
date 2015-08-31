@@ -9,7 +9,10 @@
     {
       "name": "Californian Ideology",
       "call_sign": "CALI",
-      "abstract": "50 word text here in markdown",
+      "abstract": "The 'bizarre fusion of the cultural bohemianism of San Francisco with the hi-tech industries of Silicon Valley'.[1](#1)",
+      "notes": [
+        "[Richard Barbrook and Andy Cameron, 'The Californian Ideology', (1995)](http://www.hrc.wmin.ac.uk/theory-californianideology.html)"
+      ],
       "formula": "0.5*BLAA+0.5*BLAH"
     },
     {
