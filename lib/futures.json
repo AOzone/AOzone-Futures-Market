@@ -2,123 +2,123 @@
   "futures": [
     {
       "name" : "Universal Impregnable Historical Register",
-      "call_sign": "",
+      "call_sign": "UIHR",
       "author_id": "",
-      "abstract": ""
+      "abstract": "History has been consistently rewritten since the dawn of time. As more and more historical registers become digital, the ability to both rewrite and erase history has become increasingly easy. The power that was once limited to scholars and leaders is now in the hands of everyday hackers. A Universal Impregnable Historical Register would securely hold records (from land registries and birth records to scorekeeping and news articles), ensuring the first truly comprehensive representation of the past. Entries into the register could still be recorded with bias, but no one will have the power to edit data after the fact."
     },
     {
       "name" : "Bot Politician",
-      "call_sign": "",
+      "call_sign": "BTPO",
       "author_id": "",
       "abstract": ""
     },
     {
       "name" : "Smart Contract Family",
-      "call_sign": "",
+      "call_sign": "SMCF",
       "author_id": "",
       "abstract": ""
     },
     {
       "name" : "VR Memory Playback",
-      "call_sign": "",
+      "call_sign": "VRMP",
       "author_id": "",
-      "abstract": ""
+      "abstract": "Virtual Reality (VR) is an immersive audiovisual experience that simulates physical presence in spaces. If your entire life was recorded, you could travel back in time with VR and re-live your memories. Potential applications range from daily recollection to literally walking in someone else’s shoes. In an increasingly oversaturated world, VR Memory Playback would take the burden of memory allowing people to focus on the present."
     },
     {
       "name" : "Extrastate Citizenship",
-      "call_sign": "",
+      "call_sign": "EXCZ",
       "author_id": "",
       "abstract": ""
     },
     {
       "name" : "Mind Uploading",
-      "call_sign": "",
+      "call_sign": "MDUP",
       "author_id": "",
       "abstract": ""
     },
     {
       "name" : "Implantable Robotic Medicine",
-      "call_sign": "",
+      "call_sign": "IRBM",
       "author_id": "",
       "abstract": ""
     },
     {
       "name" : "Genetic Identity Patent",
-      "call_sign": "",
+      "call_sign": "GIDP",
       "author_id": "",
-      "abstract": ""
+      "abstract": "Genetically engineering a fetus while it is still in the womb produces what is known as a ‘designer baby’. Today, doppelgangers are constructed with plastic surgery, but in the future one could design their baby to take on the visage of their favorite pop star. To prevent the theft and potential proliferation of your genetic identity, invest in a patent to protect your unique look."
     },
     {
       "name" : "Prenatal Immunization",
-      "call_sign": "",
+      "call_sign": "PNIM",
       "author_id": "",
       "abstract": ""
     },
     {
-      "name" : "Super Longetivity",
-      "call_sign": "",
+      "name" : "Super Longevity",
+      "call_sign": "SPLG",
       "author_id": "",
       "abstract": ""
     },
     {
       "name" : "Drone Authority Ban",
-      "call_sign": "",
+      "call_sign": "DBAN",
       "author_id": "",
       "abstract": ""
     },
     {
       "name" : "Human Driver Ban",
-      "call_sign": "",
+      "call_sign": "HBAN",
       "author_id": "",
-      "abstract": ""
+      "abstract": "Cars that drive themselves, using sensors to perceive and interpret the environment around them to navigate our existing roads, are being developed by companies like Google, Mercedes, BMW and Tesla. They will increase mobility for those who can’t drive themselves and have the potential to revolutionize infrastructure, regional travel, and vehicular accident rates. Every self-driving car accident to date has been caused by human error, either in an adjacent car or through manual override. Banning human drivers entirely would ensure that self-driving cars could operate safely and efficiently. "
     },
     {
       "name" : "Dismantling the Internet",
-      "call_sign": "",
+      "call_sign": "DNET",
       "author_id": "",
       "abstract": ""
     },
     {
       "name" : "Singularity",
-      "call_sign": "",
+      "call_sign": "SNGL",
       "author_id": "",
       "abstract": ""
     },
     {
-      "name" : "Dissolution of Intellectual Propery",
-      "call_sign": "",
+      "name" : "Dissolution of Intellectual Property",
+      "call_sign": "DSIP",
       "author_id": "",
       "abstract": ""
     },
     {
       "name" : "Basic Universal Welfare/Income",
-      "call_sign": "",
+      "call_sign": "BUWI",
       "author_id": "",
       "abstract": ""
     },
     {
       "name" : "Legalization of All Performance Enhancement Drugs",
-      "call_sign": "",
+      "call_sign": "LPED",
       "author_id": "",
       "abstract": ""
     },
     {
       "name" : "10-hour Work Week",
-      "call_sign": "",
+      "call_sign": "TENHR",
       "author_id": "",
       "abstract": ""
     },
     {
       "name" : "Cheap Energy",
-      "call_sign": "",
+      "call_sign": "ENGY",
       "author_id": "",
       "abstract": ""
     },
     {
       "name" : "Global Net Neutrality",
-      "call_sign": "",
+      "call_sign": "GLNN",
       "author_id": "",
-      "abstract": ""
+      "abstract": "Net Neutrality preserves the right to communicate freely online. It is the principle that the internet enables and protects free speech through both universal access and non-discriminating content production. Global Net Neutrality assumes that internet access will truly become world wide. Individual countries would not be able to regulate the internet, which would allow for universal open communication."
     }
   ]
 }
