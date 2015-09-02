@@ -87,6 +87,7 @@
       "name" : "Dismantling the Internet",
       "call_sign": "DNET",
       "author_id": "",
+      "motto": "",
       "abstract": ""
     },
     {
@@ -107,30 +108,35 @@
       "name" : "Basic Universal Welfare/Income",
       "call_sign": "UNIC",
       "author_id": "",
+      "motto": "",
       "abstract": "Basic universal income and welfare are unconditional forms of payment that cover an individual’s living and health care costs. This kind of system not only ensures a basic standard of living, it supports a flexible, freelance lifestyle. Uber contractors currently don’t have a support system if they are sick or  injured, basic universal income and welfare would create a safety net for the on-demand workforce. A global, universal system would provide these benefits without requiring tests or creating conditions."
     },
     {
       "name" : "Performance Enhancement Drugs Legalization",
       "call_sign": "DRUG",
       "author_id": "",
+      "motto": "",
       "abstract": ""
     },
     {
       "name" : "10-hour Work Week",
       "call_sign": "10HR",
       "author_id": "",
+      "motto": "",
       "abstract": "As the workforce becomes more automated, the relationship between people and work will change. Labor will be increasingly augmented by machines, but also autonomous machines will have the potential to construct everything from small scale devices to large-scale infrastructure without human supervision. A 10-hour work week will allow people to spend their time doing activities for personal fulfillment. Workforce automation will unleash the latent potential of the human race."
     },
     {
       "name" : "Cheap Energy",
       "call_sign": "ENGY",
       "author_id": "",
+      "motto": "",
       "abstract": ""
     },
     {
       "name" : "Global Net Neutrality",
       "call_sign": "NEUT",
       "author_id": "",
+      "motto": "",
       "abstract": "Net Neutrality preserves the right to communicate freely online. It is the principle that the internet enables and protects free speech through both universal access and non-discriminating content production. Global Net Neutrality assumes that internet access will truly become world wide. Individual countries would not be able to regulate the internet, which would allow for universal open communication."
     }
   ]
