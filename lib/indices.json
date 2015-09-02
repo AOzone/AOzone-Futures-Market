@@ -1,42 +1,33 @@
 {
   "indices": [
     {
-      "name" : "Communal Luxury",
-      "call_sign": "CLUX",
-      "abstract": "50 word text here in markdown",
+      "name" : "Smart",
+      "call_sign": "SMRT",
+      "abstract": "Humans should not have a monopoly on intelligence. No longer just for phones, tiny networked computers, sensors and actuators will breath life into our environment by creating a new smart ecology of objects and infrustructures.",
       "formula": "0.5*BLAA+0.5*BLAH"
     },
     {
-      "name": "Californian Ideology",
-      "call_sign": "CALI",
-      "abstract": "The 'bizarre fusion of the cultural bohemianism of San Francisco with the hi-tech industries of Silicon Valley'.[1](#1)",
-      "notes": [
-        "[Richard Barbrook and Andy Cameron, 'The Californian Ideology', (1995)](http://www.hrc.wmin.ac.uk/theory-californianideology.html)"
-      ],
+      "name" : "Secure",
+      "call_sign": "SECR",
+      "abstract": "Surveillance is a small price to pay for security. Freedom is relative. If you don't feel safe, how can you feel free? Everything necessary should be done to ",
       "formula": "0.5*BLAA+0.5*BLAH"
     },
     {
-      "name": "New Renaissance",
-      "call_sign": "NEWR",
-      "abstract": "50 word text here in markdown",
+      "name": "Equitable",
+      "call_sign": "EQIT",
+      "abstract": "The slide back into a pre-modern distribution of wealth, hollowing out the middle class that defined the 20th century in the developed world, is not sustainable. The effects of inquality are now impossible to ignore, making it an untenable state in a globally networked, literate, informed world. We will evolve to a new state of equality.",
       "formula": "0.5*BLAA+0.5*BLAH"
     },
     {
-      "name": "Transhumanism",
-      "call_sign": "TRNS",
-      "abstract": "50 word text here in markdown",
+      "name": "Doomed",
+      "call_sign": "DOOM",
+      "abstract": "Climate change is inevitable, the stock market has commodified all real value into a playground for the rich and a blackhole for the poor, increasing global wealth and urbanization have served to similarly scale the evils in human nature, and we welcome threats to our very existence like computational superintelligence and have no defense against others like asteroid collisions. Enjoy it while you can because we're doomed.",
       "formula": "0.5*BLAA+0.5*BLAH"
     },
     {
-      "name": "Post-Capitalism",
-      "call_sign": "POCA",
-      "abstract": "50 word text here in markdown",
-      "formula": "0.5*BLAA+0.5*BLAH"
-    },
-    {
-      "name": "Promethean",
-      "call_sign": "PROM",
-      "abstract": "50 word text here in markdown",
+      "name": "Free",
+      "call_sign": "FREE",
+      "abstract": "",
       "formula": "0.5*BLAA+0.5*BLAH"
     }
   ]
