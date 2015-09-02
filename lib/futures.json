@@ -94,19 +94,19 @@
       "name" : "Basic Universal Welfare/Income",
       "call_sign": "BUWI",
       "author_id": "",
-      "abstract": ""
+      "abstract": "Basic universal income and welfare are unconditional forms of payment that cover an individual’s living and health care costs. This kind of system not only ensures a basic standard of living, it supports a flexible, freelance lifestyle. Uber contractors currently don’t have a support system if they are sick or  injured, basic universal income and welfare would create a safety net for the on-demand workforce. A global, universal system would provide these benefits without requiring tests or creating conditions."
     },
     {
-      "name" : "Legalization of All Performance Enhancement Drugs",
-      "call_sign": "LPED",
+      "name" : "Performance Enhancement Drugs Legalization",
+      "call_sign": "PEDL",
       "author_id": "",
       "abstract": ""
     },
     {
       "name" : "10-hour Work Week",
-      "call_sign": "TENHR",
-      "author_id": "",
-      "abstract": ""
+      "call_sign": "TENH",
+      "author_id": "10HR",
+      "abstract": "As the workforce becomes more automated, the relationship between people and work will change. Labor will be increasingly augmented by machines, but also autonomous machines will have the potential to construct everything from small scale devices to large-scale infrastructure without human supervision. A 10-hour work week will allow people to spend their time doing activities for personal fulfillment. Workforce automation will unleash the latent potential of the human race."
     },
     {
       "name" : "Cheap Energy",
