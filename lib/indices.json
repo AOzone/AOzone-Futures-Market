@@ -1,14 +1,8 @@
 {
   "indices": [
     {
-      "name" : "Smart",
-      "call_sign": "SMRT",
-      "abstract": "Humans should not have a monopoly on intelligence. No longer just for phones, tiny networked computers, sensors and actuators will breath life into our environment by creating a new smart ecology of objects and infrustructures.",
-      "formula": "0.5*BLAA+0.5*BLAH"
-    },
-    {
-      "name" : "Secure",
-      "call_sign": "SECR",
+      "name" : "Safe",
+      "call_sign": "SAFE",
       "abstract": "Surveillance is a small price to pay for security. Freedom is relative. If you don't feel safe, how can you feel free? Everything necessary should be done to ",
       "formula": "0.5*BLAA+0.5*BLAH"
     },
