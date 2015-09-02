@@ -4,42 +4,49 @@
       "name" : "Universal Impregnable Historical Register",
       "call_sign": "HSTY",
       "author_id": "",
-      "abstract": "History has been consistently rewritten since the dawn of time. As more and more historical registers become digital, the ability to both rewrite and erase history has become increasingly easy. The power that was once limited to scholars and leaders is now in the hands of everyday hackers. A Universal Impregnable Historical Register would securely hold records (from land registries and birth records to scorekeeping and news articles), ensuring the first truly comprehensive representation of the past. Entries into the register could still be recorded with bias, but no one will have the power to edit data after the fact."
+      "motto": "History doesn't have to be written by winners any more",
+      "abstract": "History has been consistently rewritten since the dawn of time. As more and more historical registers become digital, the ability to both rewrite and erase history has become increasingly easy. The power that was once limited to scholars and leaders is now in the hands of everyday hackers. A Universal Impregnable Historical Register would securely hold records (from land registries and birth records to scorekeeping and news articles), ensuring the first truly comprehensive representation of the past. Entries into the register would still be recorded with bias, but no one will have the power to erase any records."
     },
     {
-      "name" : "Bot Politician",
-      "call_sign": "BOTP",
+      "name" : "AI Politician",
+      "call_sign": "AIPO",
       "author_id": "",
-      "abstract": ""
+      "motto": "The problem with politics is politicians",
+      "abstract": "Political systems, from democracy to communism, all suffer the same fatal flaw: they require human participation. Rather than running on fallible, emotionally unstable, unpredictable human power, a governance system fueled by artificial intelligence would not bear grudges, owe favors or suffer moods. Programmed to reprsent universally favorable values, AI politicians would provide a truly representative polity."
     },
     {
       "name" : "Smart Contract Family",
       "call_sign": "SFAM",
-      "author_id": "",
-      "abstract": ""
+      "author_id": "Martti Kalliala",
+      "motto": "Family is just a set of exceptions",
+      "abstract": "Increasingly spatially distributed and gender diverse, the nature of family is changing and so should its economic reality. If new families are already being created outside of the traditions of blood lines and surnames, the next logical step is to allow individuals to form families at will and design the relationships between members while retaining the rights afforded a family."
     },
     {
       "name" : "VR Memory Playback",
       "call_sign": "VMEM",
       "author_id": "",
+      "motto": "Upgrade your memory",
       "abstract": "Virtual Reality (VR) is an immersive audiovisual experience that simulates physical presence in spaces. If your entire life was recorded, you could travel back in time with VR and re-live your memories. Potential applications range from daily recollection to literally walking in someone else’s shoes. In an increasingly oversaturated world, VR Memory Playback would take the burden of memory allowing people to focus on the present."
     },
     {
       "name" : "Extrastate Citizenship",
       "call_sign": "EXCZ",
       "author_id": "",
-      "abstract": ""
+      "motto": "Patriotism is oppression",
+      "abstract": "Nations are just imagined communities of people bound by law and territory. Witn an increase in our lives being lived online, from work to socializing, we are no longer tethered to physical space as we once were. Why, then, is our principal form of identification? Extrastate citizenship offers the protection of a country without the limitations of being saddled with resources to protect and wars to wage."
     },
     {
       "name" : "Mind Uploading",
       "call_sign": "MIND",
       "author_id": "",
-      "abstract": ""
+      "motto": "Bodies are temporary homes",
+      "abstract": "Why be limited to your own body? Making a copy of your mind allows you to upload it into any other form, from the cloud to a robot to a harddrive sent deep into space looking for a new world."
     },
     {
       "name" : "Implantable Robotic Medicine",
       "call_sign": "ROBO",
       "author_id": "",
+      "motto": "Don't leave your health up to chemistry",
       "abstract": ""
     },
     {
@@ -52,24 +59,28 @@
       "name" : "Prenatal Immunization",
       "call_sign": "IMMU",
       "author_id": "",
-      "abstract": ""
+      "motto": "End disease forever",
+      "abstract": "Advances in genetic engineering will lead to deeper understanding of the diseases that plague the human body. Rather than rolling the dice and responding to issues as they arise, prenatal immunization rewrites the genetic code to stems disease even before your child is even born, turning hospitals into computer code."
     },
     {
       "name" : "Super Longevity",
       "call_sign": "LONG",
       "author_id": "",
-      "abstract": ""
+      "motto": "Death is not a natural part of life",
+      "abstract": "Evolution has been increasing the lifespan of humans for thousands of years. Super longevity accelerates this trend, engineering the body to survive for hundreds of years and radically altering reproductive and life cycles, such as education, retirement and labour."
     },
     {
-      "name" : "Drone Authority Ban",
+      "name" : "Domestic Drone Ban",
       "call_sign": "DBAN",
       "author_id": "",
-      "abstract": ""
+      "motto": "Drones destroy our freedom",
+      "abstract": "Drones may save lives overseas on the battlefield, but they shackle our freedom when used at home. This ban would elimate the use of drones to oversee and interact with humans on home soil."
     },
     {
       "name" : "Human Driver Ban",
       "call_sign": "HBAN",
       "author_id": "",
+      "motto": "",
       "abstract": "Cars that drive themselves, using sensors to perceive and interpret the environment around them to navigate our existing roads, are being developed by companies like Google, Mercedes, BMW and Tesla. They will increase mobility for those who can’t drive themselves and have the potential to revolutionize infrastructure, regional travel, and vehicular accident rates. Every self-driving car accident to date has been caused by human error, either in an adjacent car or through manual override. Banning human drivers entirely would ensure that self-driving cars could operate safely and efficiently. "
     },
     {
@@ -82,12 +93,14 @@
       "name" : "Singularity",
       "call_sign": "SNGL",
       "author_id": "",
+      "motto": "Computers will surpass our intelligence",
       "abstract": ""
     },
     {
       "name" : "Dissolution of Intellectual Property",
       "call_sign": "NOIP",
       "author_id": "",
+      "motto": "Intellectual property ",
       "abstract": ""
     },
     {
