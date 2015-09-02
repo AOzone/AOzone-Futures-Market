@@ -59,6 +59,18 @@
       "call_sign": "PLTY",
       "abstract": "Climate change is just a wake up call, a catalyst to finally achieve the hard problems of engineering. Thermonuclear energy will dismantle the petrochemical world order, and geoengineering and asteroid mining will shut the door on scarcity thinking forever. A world of abundance will ensue, a paradise on earth free of resource anxiety and other triggers of war.",
       "formula": "0.5*BLAA+0.5*BLAH"
+    },
+    {
+      "name": "Equitable",
+      "call_sign": "EQIT",
+      "abstract": "The slide back into a pre-modern distribution of wealth, hollowing out the middle class that defined the 20th century in the developed world, is not sustainable. The effects of inquality are now impossible to ignore, making it an untenable state in a globally networked, literate, informed world. We will evolve to a new state of equality.",
+      "formula": "0.5*BLAA+0.5*BLAH"
+    },
+    {
+      "name": "Doomed",
+      "call_sign": "DOOM",
+      "abstract": "Climate change is inevitable, the stock market has commodified all real value into a playground for the rich and a blackhole for the poor, increasing global wealth and urbanization have served to similarly scale the evils in human nature, and we welcome threats to our very existence like computational superintelligence and have no defense against others like asteroid collisions. Enjoy it while you can because we're doomed.",
+      "formula": "0.5*BLAA+0.5*BLAH"
     }
   ]
 }
