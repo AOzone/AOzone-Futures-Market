@@ -77,6 +77,14 @@
       "abstract": "Drones may save lives overseas on the battlefield, but they shackle our freedom when used at home. This ban would elimate the use of drones to oversee and interact with humans on home soil."
     },
     {
+      "name" : "Drone Authority Ban",
+      "call_sign": "DBAN",
+      "author_id": "",
+      "motto": "Maintain human authority over drones",
+      "abstract": "Drones have applications that range from selfie devices to killing machines, their pervasive integration into society is inevitable. Nevertheless, drone use crosses the line when they begin to have authority over humans. A Drone Authority Ban would regulate drone to human interaction, maintaining human dominance."
+    },
+    {
+    {
       "name" : "Human Driver Ban",
       "call_sign": "HBAN",
       "author_id": "",
