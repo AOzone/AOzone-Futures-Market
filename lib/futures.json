@@ -12,7 +12,7 @@
       "call_sign": "AIPO",
       "author_id": "",
       "motto": "The problem with politics is politicians",
-      "abstract": "Political systems, from democracy to communism, all suffer the same fatal flaw: they require human participation. Rather than running on fallible, emotionally unstable, unpredictable human power, a governance system fueled by artificial intelligence would not bear grudges, owe favors or suffer moods. Programmed to reprsent universally favorable values, AI politicians would provide a truly representative polity."
+      "abstract": "Political systems, from democracy to communism, all suffer the same fatal flaw: they require human participation. Rather than running on fallible, emotionally unstable, unpredictable human power, a governance system fueled by artificial intelligence would not bear grudges, owe favors or suffer moods. Programmed to represent universally favorable values, AI politicians would provide a truly representative polity."
     },
     {
       "name" : "Smart Contract Family",
@@ -47,12 +47,12 @@
       "call_sign": "ROBO",
       "author_id": "",
       "motto": "Don't leave your health up to chemistry",
-      "abstract": ""
+      "abstract": "Artificial organs and limbs have been experimented with for decades -- why not insert ‘smart’ technology into your body? From 3D printed organs to microscopic robotic implanted into your bloodstream, implantable robotic medicine would revolutionize disease testing, prevention, treatment."
     },
     {
       "name" : "Genetic Identity Patent",
       "call_sign": "GIDP",
-      "author_id": "",
+      "author_id": "Stake ownership over your unique look",
       "abstract": "Genetically engineering a fetus while it is still in the womb produces what is known as a ‘designer baby’. Today, doppelgangers are constructed with plastic surgery, but in the future one could design their baby to take on the visage of their favorite pop star. To prevent the theft and potential proliferation of your genetic identity, invest in a patent to protect your unique look."
     },
     {
@@ -80,63 +80,63 @@
       "name" : "Human Driver Ban",
       "call_sign": "HBAN",
       "author_id": "",
-      "motto": "",
+      "motto": "The problem with self driving cars is humans ",
       "abstract": "Cars that drive themselves, using sensors to perceive and interpret the environment around them to navigate our existing roads, are being developed by companies like Google, Mercedes, BMW and Tesla. They will increase mobility for those who can’t drive themselves and have the potential to revolutionize infrastructure, regional travel, and vehicular accident rates. Every self-driving car accident to date has been caused by human error, either in an adjacent car or through manual override. Banning human drivers entirely would ensure that self-driving cars could operate safely and efficiently. "
     },
     {
       "name" : "Dismantling the Internet",
       "call_sign": "DNET",
       "author_id": "",
-      "motto": "",
-      "abstract": ""
+      "motto": "The internet is not inherently good",
+      "abstract": "The rapid development of technology is occurring at a rate beyond human evolution. One way to slow things down, and thoughtfully choose which technologies to embrace, is to dismantle the internet."
     },
     {
       "name" : "Singularity",
       "call_sign": "SNGL",
       "author_id": "",
       "motto": "Computers will surpass our intelligence",
-      "abstract": ""
+      "abstract": "The desire for machines to become automated and autonomous necessitates the escalation of machine intelligence. Artificial general intelligence, also known as technological singularity is a moment when AI surpasses human intelligence. Investing in singularity is investing in a future beyond human comprehension."
     },
     {
       "name" : "Dissolution of Intellectual Property",
       "call_sign": "NOIP",
       "author_id": "",
       "motto": "Intellectual property ",
-      "abstract": ""
+      "abstract": "The open source development model allows data and information to be freely shared, used and changed by anyone. This decentralized culture promotes innovation through collaboration. Dissolving intellectual property will unleash the latent potential of both people and ideas."
     },
     {
       "name" : "Basic Universal Welfare/Income",
       "call_sign": "UNIC",
       "author_id": "",
-      "motto": "",
+      "motto": "Basic standard of living and flexibility for all",
       "abstract": "Basic universal income and welfare are unconditional forms of payment that cover an individual’s living and health care costs. This kind of system not only ensures a basic standard of living, it supports a flexible, freelance lifestyle. Uber contractors currently don’t have a support system if they are sick or  injured, basic universal income and welfare would create a safety net for the on-demand workforce. A global, universal system would provide these benefits without requiring tests or creating conditions."
     },
     {
       "name" : "Performance Enhancement Drugs Legalization",
       "call_sign": "DRUG",
       "author_id": "",
-      "motto": "",
-      "abstract": ""
+      "motto": "Take natural selection into your own hands",
+      "abstract": "The world is evolving at a rapid pace, humans need to keep up. The widespread, sanctioned use of mind and body altering substances is the next form of human evolution."
     },
     {
       "name" : "10-hour Work Week",
       "call_sign": "10HR",
       "author_id": "",
-      "motto": "",
+      "motto": "Technology should emancipate workers",
       "abstract": "As the workforce becomes more automated, the relationship between people and work will change. Labor will be increasingly augmented by machines, but also autonomous machines will have the potential to construct everything from small scale devices to large-scale infrastructure without human supervision. A 10-hour work week will allow people to spend their time doing activities for personal fulfillment. Workforce automation will unleash the latent potential of the human race."
     },
     {
       "name" : "Cheap Energy",
       "call_sign": "ENGY",
       "author_id": "",
-      "motto": "",
-      "abstract": ""
+      "motto": "From scarcity to abundance",
+      "abstract": "Vast sources of energy can be harnessed from solar, wind, wave and tidal action, ocean currents, temperature differentials, falling water, geothermal, electrostatic, hydrogen, natural gas, algae, biomass, bacteria, phase transformation, fresnel lenses, and thermionics; amongst others. The development of clean, sustainable, and free energy on a global scale has the potential to produce  more than enough energy and resources to sustain a high standard of living for every person on the planet."
     },
     {
       "name" : "Global Net Neutrality",
       "call_sign": "NEUT",
       "author_id": "",
-      "motto": "",
+      "motto": "A sovereign world wide web",
       "abstract": "Net Neutrality preserves the right to communicate freely online. It is the principle that the internet enables and protects free speech through both universal access and non-discriminating content production. Global Net Neutrality assumes that internet access will truly become world wide. Individual countries would not be able to regulate the internet, which would allow for universal open communication."
     }
   ]
