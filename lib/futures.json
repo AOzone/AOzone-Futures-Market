@@ -47,13 +47,13 @@
       "call_sign": "ROBO",
       "author_id": "",
       "motto": "Cure and prevent disease by inserting advanced technology into your body",
-      "abstract": "Artificial organs and limbs have been experimented with for decades -- why not insert ‘smart’ technology into your body? From 3D printed organs to microscopic robotic medicine running through your your bloodstream, implantable robotic medicine would revolutionize disease testing, prevention, treatment. Rather than rolling the dice and responding to issues as they arise, Robotic Medicine allows doctors to monitor a patient’s progress and alter dosage remotely, turning hospitals into computer code. Don’t leave your health up to biology."
+      "abstract": "Artificial organs and limbs have been experimented with for decades -- why not insert ‘smart’ technology into your body? From 3D printed organs to microscopic robotic medicine running through your your bloodstream, implantable robotic medicine would revolutionize disease testing, prevention, treatment. Rather than rolling the dice and responding to issues as they arise, Robotic Medicine allows doctors to monitor a patient’s progress and alter dosage remotely. Let doctors embrace robotic technolgies, don’t leave your health up to biology."
     },
     {
       "name" : "Genetic Identity Patent",
       "call_sign": "GIDP",
       "author_id": "Capitalize on your your unique look by staking claim legally.",
-      "abstract": "Advances in genetic engineering will lead to a deeper understanding of the specific genes affiliated with both physical features and abilities. Genetically engineering a fetus while it is still in the womb produces what is known as a ‘designer baby’. Today, doppelgangers are constructed with plastic surgery, but in the future one could design their baby to take on the visage, personality or talent of their favorite pop or sports star. To prevent the theft and potential proliferation of your genetic identity, invest in a patent to protect your unique look. Alternatively, profit off of your full lips or high jump by patenting your genetic identity and selling it to the highest bidder."
+      "abstract": "Genetically engineering a fetus while it is still in the womb produces what is known as a ‘designer baby’. Today, doppelgangers are constructed with plastic surgery, but in the future one could design their baby to take on the visage, personality or talent of their favorite pop or sports star. To prevent the theft and potential proliferation of your genetic identity, invest in a patent to protect your unique look. Alternatively, profit off of your full lips or high jump by patenting your genetic identity and selling it to the highest bidder."
     },
     {
       "name" : "Autonomous Drone Ban",
@@ -102,7 +102,7 @@
       "call_sign": "WORK",
       "author_id": "",
       "motto": "Technology should emancipate workers",
-      "abstract": "As the workforce becomes more automated, the relationship between people and work will change. Labor will be increasingly augmented by machines, but also autonomous machines will have the potential to construct everything from small scale devices to large-scale infrastructure without human supervision. A 10-hour work week will allow people to spend their time doing activities for personal fulfillment. Workforce automation will unleash the latent potential of the human race."
+      "abstract": "Aging populations leads to a labor shortage, luckily as the workforce becomes more automated, the relationship between people and work will change. Labor will be increasingly augmented by machines, but also autonomous machines will have the potential to construct everything from small scale devices to large-scale infrastructure without human supervision. Volunteer Employment will allow people to spend their time doing activities for personal fulfillment. Workforce automation will unleash the latent potential of the human race."
     },
     {
       "name" : "Cheap Energy",
@@ -130,7 +130,7 @@
       "call_sign": "GENE",
       "author_id": "",
       "motto": "Abolish genetic disorders forever",
-      "abstract": "Advances in genetic engineering will lead to deeper understanding of the diseases that plague the human body. Rather than rolling the dice and responding to issues as they arise, rewrites the genetic code to stems disease even before your child is even born, turning hospitals into computer code. The world is evolving at a rapid pace, humans need to keep up. The eradication of genetic disorder is the next form of human evolution."
+      "abstract": "Advances in genetic engineering will lead to a deeper understanding of the abnormalities that plague the human body. Imagine if color blindness, down syndrome, cystic fibrosis and all other genetic disorders were a thing of the past. Rewriting genetic code could stem disorders even before your child is even born, turning hospitals into computer code. The world is evolving at a rapid pace, and humans need to keep up. The eradication of genetic disorder is the next form of human evolution."
     },
     {
       "name" : "Designed Evolution",
