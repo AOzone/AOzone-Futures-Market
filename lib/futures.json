@@ -1,150 +1,135 @@
 {
   "futures": [
     {
-      "name" : "Universal Impregnable Historical Register",
-      "call_sign": "HSTY",
+      "name" : "Global Crypto-Register",
+      "call_sign": "GLBL",
       "author_id": "",
-      "motto": "History doesn't have to be written by winners any more",
-      "abstract": "History has been consistently rewritten since the dawn of time. As more and more historical registers become digital, the ability to both rewrite and erase history has become increasingly easy. The power that was once limited to scholars and leaders is now in the hands of everyday hackers. A Universal Impregnable Historical Register would securely hold records (from land registries and birth records to scorekeeping and news articles), ensuring the first truly comprehensive representation of the past. Entries into the register would still be recorded with bias, but no one will have the power to erase any records."
+      "motto": "Safely record history in a universal encrypted register",
+      "abstract": "History has been consistently rewritten since the dawn of time. As more and more historical registers become digital, the ability to both rewrite and erase history has become increasingly easy. The power that was once limited to scholars and leaders is now in the hands of everyday hackers. A Global Crypto-Register would securely hold records (from land registries and birth records to scorekeeping and news articles), ensuring the first truly comprehensive representation of the past. Entries into the register would still be recorded with bias, but no one will have the power to erase any records. History doesn’t have to be written by winners any more."
     },
     {
-      "name" : "AI Politician",
-      "call_sign": "AIPO",
+      "name" : "AI Governance",
+      "call_sign": "AIGO",
       "author_id": "",
-      "motto": "The problem with politics is politicians",
-      "abstract": "Political systems, from democracy to communism, all suffer the same fatal flaw: they require human participation. Rather than running on fallible, emotionally unstable, unpredictable human power, a governance system fueled by artificial intelligence would not bear grudges, owe favors or suffer moods. Programmed to represent universally favorable values, AI politicians would provide a truly representative polity."
+      "motto": "Ensure due process by automating your administration",
+      "abstract": "Political systems, from democracy to communism, all suffer the same fatal flaw: they are dependent on human jurisdiction. Rather than running on fallible, emotionally unstable, unpredictable human will, a governance system fueled by artificial intelligence would not bear grudges, owe favors or suffer moods. Designating artificial intelligence legislators is not giving control to machines. An AI Governance system would be programmed to represent universally favorable values, providing truly representative governance. The problem with politics is politicians."
     },
     {
       "name" : "Smart Contract Family",
       "call_sign": "SFAM",
       "author_id": "Martti Kalliala",
-      "motto": "Family is just a set of exceptions",
-      "abstract": "Increasingly spatially distributed and gender diverse, the nature of family is changing and so should its economic reality. If new families are already being created outside of the traditions of blood lines and surnames, the next logical step is to allow individuals to form families at will and design the relationships between members while retaining the rights afforded a family."
+      "motto": "Reap the benefits of a family without conforming to traditional standards",
+      "abstract": "Increasingly gender diverse and physically separated, the nature of family is changing and so should its economic and legal reality. If new families are already being created outside of the traditions of blood lines and surnames, the next logical step is to allow individuals to form families at will and design the relationships between members while retaining the rights afforded a family. A Smart Contract Family would be legally binding for a specific period of time, allowing individuals to create temporary dependent relationships. The notion of committing to anything for a lifetime no longer makes sense. Choose to file taxes jointly and share federal issued benefits with the logical choice for now."
     },
     {
       "name" : "VR Memory Playback",
       "call_sign": "VMEM",
       "author_id": "",
-      "motto": "Upgrade your memory",
-      "abstract": "Virtual Reality (VR) is an immersive audiovisual experience that simulates physical presence in spaces. If your entire life was recorded, you could travel back in time with VR and re-live your memories. Potential applications range from daily recollection to literally walking in someone else’s shoes. In an increasingly oversaturated world, VR Memory Playback would take the burden of memory allowing people to focus on the present."
+      "motto": "Upgrade your memory by recording your life",
+      "abstract": "Virtual Reality (VR) is an audiovisual experience that simulates physical presence in spaces. Increasingly indistinguishable from reality, VR is primarily used in the entertainment industry as a tool to transport you to another world. Why not utilize the technology as an immersive time capsule? If your entire life was recorded, you could travel back in time with VR Memory Playback and re-live your memories. Potential applications range from daily recollection to literally walking in someone else’s shoes. In an increasingly oversaturated world, VR Memory Playback would take on the burden of memory allowing people to focus on the present."
     },
     {
       "name" : "Extrastate Citizenship",
       "call_sign": "EXCZ",
       "author_id": "",
-      "motto": "Patriotism is oppression",
-      "abstract": "Nations are just imagined communities of people bound by law and territory. Witn an increase in our lives being lived online, from work to socializing, we are no longer tethered to physical space as we once were. Why, then, is our principal form of identification? Extrastate citizenship offers the protection of a country without the limitations of being saddled with resources to protect and wars to wage."
+      "motto": "Liberate yourself from the physical boundaries of a country",
+      "abstract": "Nations are just imagined communities of people bound by law and territory. With an increase in our lives being lived online, from work to socializing, we are not as tethered to physical space as we once were. Why, then, is citizenship our principal form of identification? Extrastate citizenship offers the protection of a country without the limitations of being saddled with resources to protect and wars to wage. This citizenship would allow people from reporters and travel writers to teachers and archaeologists to embrace a nomadic lifestyle. Patriotism is oppression."
     },
     {
       "name" : "Mind Uploading",
       "call_sign": "MIND",
       "author_id": "",
-      "motto": "Bodies are temporary homes",
-      "abstract": "Why be limited to your own body? Making a copy of your mind allows you to upload it into any other form, from the cloud to a robot to a harddrive sent deep into space looking for a new world."
+      "motto": "Store your thoughts just like you store your data",
+      "abstract": "Why be limited to your own body? Physical bodies are vulnerable to the passage of time and unforeseen trauma. Imagine if backing up your thoughts was as easy as backing up your computer. Making a copy of your mind would allow you to upload it into any other form, from the cloud to a robot to a harddrive sent deep into space looking for a new world. Mind Uploading would permit you to remotely organize your mind, selectively accessing or repressing individual thoughts and opinions. The sharing potentials are endless. Make the most out of your mind, bodies are temporary houses."
     },
     {
-      "name" : "Implantable Robotic Medicine",
+      "name" : "Robotic Medicine",
       "call_sign": "ROBO",
       "author_id": "",
-      "motto": "Don't leave your health up to chemistry",
-      "abstract": "Artificial organs and limbs have been experimented with for decades -- why not insert ‘smart’ technology into your body? From 3D printed organs to microscopic robotic implanted into your bloodstream, implantable robotic medicine would revolutionize disease testing, prevention, treatment."
+      "motto": "Cure and prevent disease by inserting advanced technology into your body",
+      "abstract": "Artificial organs and limbs have been experimented with for decades -- why not insert ‘smart’ technology into your body? From 3D printed organs to microscopic robotic medicine running through your your bloodstream, implantable robotic medicine would revolutionize disease testing, prevention, treatment. Rather than rolling the dice and responding to issues as they arise, Robotic Medicine allows doctors to monitor a patient’s progress and alter dosage remotely, turning hospitals into computer code. Don’t leave your health up to biology."
     },
     {
       "name" : "Genetic Identity Patent",
       "call_sign": "GIDP",
-      "author_id": "Stake ownership over your unique look",
-      "abstract": "Genetically engineering a fetus while it is still in the womb produces what is known as a ‘designer baby’. Today, doppelgangers are constructed with plastic surgery, but in the future one could design their baby to take on the visage of their favorite pop star. To prevent the theft and potential proliferation of your genetic identity, invest in a patent to protect your unique look."
+      "author_id": "Capitalize on your your unique look by staking claim legally.",
+      "abstract": "Advances in genetic engineering will lead to a deeper understanding of the specific genes affiliated with both physical features and abilities. Genetically engineering a fetus while it is still in the womb produces what is known as a ‘designer baby’. Today, doppelgangers are constructed with plastic surgery, but in the future one could design their baby to take on the visage, personality or talent of their favorite pop or sports star. To prevent the theft and potential proliferation of your genetic identity, invest in a patent to protect your unique look. Alternatively, profit off of your full lips or high jump by patenting your genetic identity and selling it to the highest bidder."
     },
     {
-      "name" : "Prenatal Immunization",
-      "call_sign": "IMMU",
-      "author_id": "",
-      "motto": "End disease forever",
-      "abstract": "Advances in genetic engineering will lead to deeper understanding of the diseases that plague the human body. Rather than rolling the dice and responding to issues as they arise, prenatal immunization rewrites the genetic code to stems disease even before your child is even born, turning hospitals into computer code."
-    },
-    {
-      "name" : "Super Longevity",
-      "call_sign": "LONG",
-      "author_id": "",
-      "motto": "Death is not a natural part of life",
-      "abstract": "Evolution has been increasing the lifespan of humans for thousands of years. Super longevity accelerates this trend, engineering the body to survive for hundreds of years and radically altering reproductive and life cycles, such as education, retirement and labour."
-    },
-    {
-      "name" : "Domestic Drone Ban",
-      "call_sign": "DBAN",
-      "author_id": "",
-      "motto": "Drones destroy our freedom",
-      "abstract": "Drones may save lives overseas on the battlefield, but they shackle our freedom when used at home. This ban would elimate the use of drones to oversee and interact with humans on home soil."
-    },
-    {
-      "name" : "Drone Authority Ban",
+      "name" : "Autonomous Drone Ban",
       "call_sign": "DBAN",
       "author_id": "",
       "motto": "Maintain human authority over drones",
-      "abstract": "Drones have applications that range from selfie devices to killing machines, their pervasive integration into society is inevitable. Nevertheless, drone use crosses the line when they begin to have authority over humans. A Drone Authority Ban would regulate drone to human interaction, maintaining human dominance."
+      "abstract": "Drones have applications that range from selfie devices to killing machines, their pervasive integration into society is inevitable. Nevertheless, drones cross the line when they begin to act independently from humans. An Autonomous Drone Ban would ensure human supervision of drones, preventing artificial intelligence from spiraling out of control. Giving drones the authority to think for themselves runs the risk of drones asserting dominance over humans. Drones were designed to serve humans, their activities should be monitored and regulated."
     },
     {
       "name" : "Human Driver Ban",
       "call_sign": "HBAN",
       "author_id": "",
-      "motto": "The problem with self driving cars is humans ",
-      "abstract": "Cars that drive themselves, using sensors to perceive and interpret the environment around them to navigate our existing roads, are being developed by companies like Google, Mercedes, BMW and Tesla. They will increase mobility for those who can’t drive themselves and have the potential to revolutionize infrastructure, regional travel, and vehicular accident rates. Every self-driving car accident to date has been caused by human error, either in an adjacent car or through manual override. Banning human drivers entirely would ensure that self-driving cars could operate safely and efficiently. "
+      "motto": "Allow self-driving cars to exclusively use our roads",
+      "abstract": "Cars that drive themselves, using sensors to perceive and interpret the environment around them to navigate our existing roads, are being developed by companies like Google, Mercedes, BMW and Tesla. They will increase mobility for those who can’t drive themselves and have the potential to revolutionize infrastructure, regional travel, and vehicular accident rates. Every self-driving car accident to date has been caused by human error, either in an adjacent car or through manual override. Banning human drivers entirely would ensure that self-driving cars could operate safely and efficiently. The problem with self driving cars is humans."
     },
     {
       "name" : "Dismantling the Internet",
       "call_sign": "DNET",
       "author_id": "",
       "motto": "The internet is not inherently good",
-      "abstract": "The rapid development of technology is occurring at a rate beyond human evolution. One way to slow things down, and thoughtfully choose which technologies to embrace, is to dismantle the internet."
-    },
-    {
-      "name" : "Singularity",
-      "call_sign": "SNGL",
-      "author_id": "",
-      "motto": "Computers will surpass our intelligence",
-      "abstract": "The desire for machines to become automated and autonomous necessitates the escalation of machine intelligence. Artificial general intelligence, also known as technological singularity is a moment when AI surpasses human intelligence. Investing in singularity is investing in a future beyond human comprehension."
+      "abstract": "Beyond existing as a spawning ground for bullying, terrorism, sex rings and drug networks, the internet is highly monopolized and surveilled. Regulation has rendered the internet unrecognizable; opaque policies benefit the minority, and push criminal activity deeper underground. The internet as a democratic space for open communication is a distant memory. The solution, for both those who see the internet as too volatile for its own good and those who feel that their freedom of speech has been infringed upon, is to dismantle the internet entirely."
     },
     {
       "name" : "Dissolution of Intellectual Property",
       "call_sign": "NOIP",
       "author_id": "",
-      "motto": "Intellectual property ",
-      "abstract": "The open source development model allows data and information to be freely shared, used and changed by anyone. This decentralized culture promotes innovation through collaboration. Dissolving intellectual property will unleash the latent potential of both people and ideas."
+      "motto": "Do away with trade secrets by decoupling ideas from people",
+      "abstract": "The culture that intellectual property law engenders is ruthless and competitive. Alternatively, the open source development model allows data and information to be freely shared, used and changed by anyone. This decentralized culture promotes innovation through collaboration. Dissolving intellectual property will unleash the latent potential of both people and ideas. Why restrict creative development to the people with the initial vision? IP laws are outdated and pastoral. Intellectual Property is a limitation."
     },
     {
-      "name" : "Basic Universal Welfare/Income",
+      "name" : "Basic Universal Income",
       "call_sign": "UNIC",
       "author_id": "",
-      "motto": "Basic standard of living and flexibility for all",
-      "abstract": "Basic universal income and welfare are unconditional forms of payment that cover an individual’s living and health care costs. This kind of system not only ensures a basic standard of living, it supports a flexible, freelance lifestyle. Uber contractors currently don’t have a support system if they are sick or  injured, basic universal income and welfare would create a safety net for the on-demand workforce. A global, universal system would provide these benefits without requiring tests or creating conditions."
+      "motto": "Guarantee a basic standard of living and flexibility for all",
+      "abstract": "Basic universal income is an unconditional form of payment that covers an individual’s living and health care costs. This kind of system not only ensures a basic standard of living, it supports a flexible, freelance lifestyle. Uber contractors currently don’t have a support system if they are sick or  injured, basic universal income would create a safety net for the on-demand workforce. A global, universal system would provide these benefits without requiring tests or creating conditions."
     },
     {
-      "name" : "Performance Enhancement Drugs Legalization",
+      "name" : "Drug Decriminalization",
       "call_sign": "DRUG",
       "author_id": "",
-      "motto": "Take natural selection into your own hands",
-      "abstract": "The world is evolving at a rapid pace, humans need to keep up. The widespread, sanctioned use of mind and body altering substances is the next form of human evolution."
+      "motto": "Invest in regulation and education instead of draconian laws",
+      "abstract": "The war on drugs has spiraled into political hysteria. Drugs that had been used for both medical and spiritual purposes for thousands of years are currently illegal. Prohibition is a financial and social burden that has not diminished drug use or abuse. In fact, the disproportionate value placed upon illegal substances has given criminals the upper hand. Drug decriminalization would allow qualified physicians to monitor and regulate dosages of even the most potent drugs. Let science shape policy, and take the authority away from criminals."
     },
     {
       "name" : "10-hour Work Week",
-      "call_sign": "10HR",
+      "call_sign": "TENR",
       "author_id": "",
       "motto": "Technology should emancipate workers",
       "abstract": "As the workforce becomes more automated, the relationship between people and work will change. Labor will be increasingly augmented by machines, but also autonomous machines will have the potential to construct everything from small scale devices to large-scale infrastructure without human supervision. A 10-hour work week will allow people to spend their time doing activities for personal fulfillment. Workforce automation will unleash the latent potential of the human race."
     },
     {
-      "name" : "Cheap Energy",
+      "name" : "Energy Democracy",
       "call_sign": "ENGY",
       "author_id": "",
-      "motto": "From scarcity to abundance",
-      "abstract": "Vast sources of energy can be harnessed from solar, wind, wave and tidal action, ocean currents, temperature differentials, falling water, geothermal, electrostatic, hydrogen, natural gas, algae, biomass, bacteria, phase transformation, fresnel lenses, and thermionics; amongst others. The development of clean, sustainable, and free energy on a global scale has the potential to produce  more than enough energy and resources to sustain a high standard of living for every person on the planet."
+      "motto": "Liberate energy production from our dependence on fossil fuels",
+      "abstract": "The monopolization of energy sources has allowed a few multibillion dollar companies to force outdated technology on the masses. Bureaucratic barriers have hindered the push towards renewable and sustainable energy. An Energy Democracy would both ensure the development of affordable energy and mandate the even distribution of energy globally, producing more than enough energy to sustain a high standard of living for every person on the planet. Our dependence on fossil fuels has both environmental and economic repercussions. We need to allow energy to move from scarcity to abundance."
     },
     {
       "name" : "Global Net Neutrality",
       "call_sign": "NEUT",
       "author_id": "",
-      "motto": "A sovereign world wide web",
-      "abstract": "Net Neutrality preserves the right to communicate freely online. It is the principle that the internet enables and protects free speech through both universal access and non-discriminating content production. Global Net Neutrality assumes that internet access will truly become world wide. Individual countries would not be able to regulate the internet, which would allow for universal open communication."
+      "motto": "Defend digital rights of people by establishing a sovereign, truly world wide web",
+      "abstract": "Net Neutrality preserves the right to communicate freely online by mandating that all content, applications and services are treated equally. More than just enabling and protecting free speech, an open internet ensures universal access to knowledge. Global Net Neutrality would prevent individual countries from regulating the internet, ensuring international open communication. As digital presence begins to eclipse the physical, it is essential to ensure digital equality to prevent the marginalization of those with limited influence and access to the internet. Net neutrality is a human right."
+    },
+    {
+      "name" : "Utility of Technology Commission",
+      "call_sign": "TECH",
+      "author_id": "",
+      "motto": "Empower the government to regulate all technology",
+      "abstract": "The rapid development of technology is occurring at a rate beyond human evolution. One way to slow things down, and thoughtfully choose which technologies to embrace, is to create a Utility of Technology Commission that will vett new technology like FDA clinical trials. As technological advances become more and more extreme, their impact on society is increasingly difficult to predict. Trusting companies to beta-test innovative technology with the consumer's best interest in mind is not a risk we should take. A highly regulated, federal agency approval process is the best way to ensure public health and safety."
+    },
+    {
+      "name" : "Vaccines for Everything",
+      "call_sign": "VACCI",
+      "author_id": "",
+      "motto": "Abolish disease forever",
+      "abstract": "Take natural selection into your own hands and invest in the development of vaccines for everything. Imagine if HIV, Malaria, Ebola and Cancer were eradicated, the development of vaccines for everything would end disease forever. Immunization research will advance to the point that every single infectious disease will be predicted before they begin to infect humans. The world is evolving at a rapid pace, humans need to keep up. Ubiquitous vaccines are the next form of human evolution."
     }
   ]
-}
