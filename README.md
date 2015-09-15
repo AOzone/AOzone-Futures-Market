@@ -3,8 +3,6 @@ The Åzone (_pron. "Ozone"_) Futures Market connects an online simulated futures
 
 Visit the [wiki](https://github.com/AOzone/AOzone-Futures-Market/wiki) for details.
 
-> Invest in the future you want
-
 ### Abstract
 New technologies that challenge our social foundations are entering our lives at an increasing rate, destabilizing the worldviews, institutions, ethics and practices that have structured our collective experience for centuries. This acceleration exceeds the limits of our capacity to understand and thereby to steward the lives we want to live. The Åzone Futures Market provides a public testing ground to learn about and experiment with the potential effects of some of the most transformative of these technologies in a simulated stock market. Including dynamic pricing, crowd-sourced news feeds, and market interpretation and manipulation, it will provide investors with the apparatus to take a position on the future they wish to live and to track its development in the present. Artists, architects, designers, technologists and writers will contribute trend analyses and investment strategies to articulate the consequences of certain positions, as well as prizes for various accomplishments. Guggenheim curators will select investors to profile and invite as advisers on an upcoming exhibition that the market will inform.
 
