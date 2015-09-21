@@ -166,5 +166,12 @@
       "author_id": "",
       "motto": "Protect the Earth from its demise",
       "abstract": ""
+    },
+    {
+      "name" : "Universal Vaccination",
+      "call_sign": "UVAC",
+      "author_id": "",
+      "motto": "Vacinate against everything",
+      "abstract": ""
     }
   ]
