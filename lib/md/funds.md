@@ -7,7 +7,7 @@ Author: undefined
 As new technologies, particularly digital, continue to subsume every aspect of our transactions, working life, and value systems, a new form of political economy is emerging that has the similar exploitative effects of capitalism, but is something altogether different.
 
 
-### H+–Transhumanist
+### TRNS–Transhumanist
 
 Author: undefined
 
@@ -77,23 +77,5 @@ Author: undefined
 > undefined
 
 The real world has become less real than the digital world. Cyberspace is now home, all the rest is just a waiting room. With advancements in cheap networked virtual reality and nootropics, our bodies will become mere conduits to completely new experiences offered by ever more powerful digital-chemical cocktails.
-
-
-### PLTY–Plentiful
-
-Author: undefined
-
-> undefined
-
-Climate change is just a wake up call, a catalyst to finally achieve the hard problems of engineering. Thermonuclear energy will dismantle the petrochemical world order, and geoengineering and asteroid mining will shut the door on scarcity thinking forever. A world of abundance will ensue, a paradise on earth free of resource anxiety and other triggers of war.
-
-
-### SMRT–Smart
-
-Author: undefined
-
-> undefined
-
-Humans used to have a monopoly on intelligence. As more and more objects are embedded with computation and networked together, we will have finally played God, breathing life into the dead world around us. This newly smart environment of buildings, vehicles, and infrastructure will converse, transact and strategize with not only us, but also a sea of objects on and around us.
 
 
