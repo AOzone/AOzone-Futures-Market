@@ -23,19 +23,19 @@ Climate change is inevitable, the stock market has commodified all real value in
 
 Author: Åzone
 
-
+Åzone
 
 
 ### PLTY–Plentiful
 
-Author: undefined
+Author: Åzone
 
 Climate change is just a wake up call, a catalyst to finally achieve the hard problems of engineering. Thermonuclear energy will dismantle the petrochemical world order, and geoengineering and asteroid mining will shut the door on scarcity thinking forever. A world of abundance will ensue, a paradise on earth free of resource anxiety and other triggers of war.
 
 
 ### SMRT–Smart
 
-Author: undefined
+Author: Åzone
 
 Humans used to have a monopoly on intelligence. As more and more objects are embedded with computation and networked together, we will have finally played God, breathing life into the dead world around us. This newly smart environment of buildings, vehicles, and infrastructure will converse, transact and strategize with not only us, but also a sea of objects on and around us.
 

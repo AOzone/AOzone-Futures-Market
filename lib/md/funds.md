@@ -1,6 +1,6 @@
 ### POCA–Post-Capitalist
 
-Author: undefined
+Author: 
 
 > undefined
 
@@ -9,7 +9,7 @@ As new technologies, particularly digital, continue to subsume every aspect of o
 
 ### TRNS–Transhumanist
 
-Author: undefined
+Author: 
 
 > undefined
 
@@ -18,7 +18,7 @@ Media technology not only extend the capacity of the human body and mind, they a
 
 ### DCNT–Decentralized
 
-Author: undefined
+Author: 
 
 > undefined
 
@@ -27,7 +27,7 @@ Centralized institutions like cities, universities, banks and states have provid
 
 ### PAST–Pastoralist
 
-Author: undefined
+Author: 
 
 > undefined
 
@@ -36,7 +36,7 @@ Our Silicon Valley-fueled techno-infused obsessions have gone too far. Airbnb de
 
 ### CMON–Communal
 
-Author: undefined
+Author: 
 
 > undefined
 
@@ -45,7 +45,7 @@ Communism failed in large part due to a lack of suitable technology. When artifi
 
 ### AARC–Anarchist
 
-Author: undefined
+Author: 
 
 > undefined
 
@@ -54,7 +54,7 @@ Politics is old technology. Digital protocols and networks, like those of open s
 
 ### PODM–Post-Democratic
 
-Author: undefined
+Author: 
 
 > undefined
 
@@ -63,7 +63,7 @@ If the multi-millenia experiment with democracy has taught us anything, it's tha
 
 ### CALI–Californian
 
-Author: undefined
+Author: 
 
 > undefined
 
@@ -72,7 +72,7 @@ In California, for-profit and for-good are not at odds. Rather, they will come t
 
 ### PUNK–Cyberpunk
 
-Author: undefined
+Author: 
 
 > undefined
 
