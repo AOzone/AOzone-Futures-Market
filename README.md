@@ -4,7 +4,7 @@ New technologies that challenge our social foundations are entering our lives at
 Visit the [wiki](https://github.com/AOzone/AOzone-Futures-Market/wiki) for details.
 
 ### Contact
-Troy Conrad Therrien
-Curator, Architecture & Digital Iniatives
-Solomon R. Guggenheim Foundation and Museum
+Troy Conrad Therrien  
+Curator, Architecture & Digital Iniatives  
+Solomon R. Guggenheim Foundation and Museum  
 azone@guggenheim.org
