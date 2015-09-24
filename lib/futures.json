@@ -8,8 +8,8 @@
       "abstract": "Evolution has been increasing the lifespan of humans for thousands of years. Super longevity accelerates this trend, engineering the body to survive for hundreds of years and radically altering reproductive and life cycles, such as education, retirement and labour."
     },
     {
-      "name" : "Universal History",
-      "call_sign": "HSTY",
+      "name" : "Universal Chronicle",
+      "call_sign": "CRON",
       "author_id": "",
       "motto": "A history of facts not winners",
       "abstract": "History has been consistently rewritten since the dawn of time. As more and more historical registers become digital, the ability to both rewrite and erase history has become increasingly easy. The power that was once limited to scholars and leaders is now in the hands of everyday hackers. A Global Crypto-Register would securely hold records (from land registries and birth records to scorekeeping and news articles), ensuring the first truly comprehensive representation of the past. Entries into the register would still be recorded with bias, but no one will have the power to erase any records. History doesn’t have to be written by winners any more."
@@ -126,8 +126,8 @@
       "abstract": "Advances in genetic engineering will lead to a deeper understanding of the abnormalities that plague the human body. Imagine if color blindness, down syndrome, cystic fibrosis and all other genetic disorders were a thing of the past. Prenatal Genetic Modification could stem disorders by rewriting genetic code before your child is even born, turning hospitals into computer code. The world is evolving at a rapid pace, and humans need to keep up. The eradication of genetic disorder is the next form of human evolution."
     },
     {
-      "name" : "Nomadic Cognition",
-      "call_sign": "NCOG",
+      "name" : "Distributed Cognition",
+      "call_sign": "DCOG",
       "author_id": "",
       "motto": "Upload and download thoughts just like data",
       "abstract": "Imagine if backing up your thoughts was as easy as backing up your computer. If cognition was off-loaded to technology, the extended mind would allow you to selectively access knowledge as you need it. Learning a language would be as simple as downloading a file. Making a copy of your mind would allow you to upload it into any other form, from the cloud to a robot to a harddrive sent deep into space looking for a new world. Nomadic Cognition would permit you to remotely organize your mind, selectively accessing or repressing individual thoughts and opinions. The sharing potentials are endless. Make the most out of your mind, bodies are temporary houses."
@@ -140,10 +140,10 @@
       "abstract": "Advanced technology has both simplified and intensified voyeurism. Collecting data for the greater good or for more sinister purposes has become one of the primary uses of the internet. With an increasing number of smart, interconnected devices we have become susceptible to intelligent surveillance even when we are not on our computers. What if you could camouflage your fingerprints and irises, or choose to not leave traces of DNA in public spaces? Identity Cloaking would give people the ability to control their own anonymity by selectively concealing both their digital data and physical bio-data. Prevent your data from being used without your knowledge by enacting self-controlled anonymity"
     },
     {
-      "name" : "Extraterrestrial Colonies",
+      "name" : "Extraterrestrial Living",
       "call_sign": "EXCO",
       "author_id": "",
-      "motto": "Live on Mars",
+      "motto": "Our condition of increasing resource scarcity is eradicated by the colonization of other planets and mineral rich asteroids.",
       "abstract": "The untold space beyond Earth presents a blank slate for new forms of research and development. Interplanetary Living can take the form of Extraterrestrial Colonies, providing a space to live, but more than that, creating an ideal beta test environment for everything from new forms of social order to a safe space for hazardous biotech experiments that are too dangerous to run on earth. Distinctly different, independent living conditions can be designed, satisfying both the the luddite and the technophile. Space is both a refuge from life on earth and an untapped frontier."
     },
     {
