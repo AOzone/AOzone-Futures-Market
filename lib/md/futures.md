@@ -1,7 +1,7 @@
 ### Superlongevity
 Engineering the body to survive for hundreds of years radically alters social orders tethered to life cycles, from education and retirement to family size and wealth accumulation.
 
-### Universal History
+### Universal Chronicle
 A common, unimpeachable, searchable and verifiable register of historical facts takes history out of the sole hands of its winners.
 
 ### Artificially Intelligent Governance
