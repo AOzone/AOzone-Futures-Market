@@ -20,7 +20,7 @@ Belonging to advocacy communities that are not tethered to physical territories 
 Nano-technology and the 3D printing of organic tissue offers a new class of biological machines that engineer our health from within our bodies.
 
 ### Genetic Identity Patent
-Patenting your own identity protects you from others replicating your good genetic fortune in an era of gene sequencing and manipulation.
+Patenting your own identity allow you to capitalize on your good genetic furtune by selling it off to the highest bidder. 
 
 ### Drone Immunity
 Disguising yourself from drone oversight allows you to avoid domestic surveillance and foreign attacks.
@@ -60,9 +60,6 @@ Anonymity in our state of ubiquitous surveillance allows for the flourishing of 
 
 ### Extraterrestrial Living
 Our condition of increasing resource scarcity is eradicated by the colonization of other planets and mineral rich asteroids.
-
-### 3D Printed Infrastructure
-As the human population continues to explode, the ability to 3D print at large scale allows urbanization to keep pace.
 
 ### Deathless Combat
 Wars fought by robotic proxy keeps the human tradition of conflict in play while removing human life from the equation.
