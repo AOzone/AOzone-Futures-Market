@@ -20,7 +20,7 @@ Belonging to advocacy communities that are not tethered to physical territories 
 Nano-technology and the 3D printing of organic tissue offers a new class of biological machines that engineer our health from within our bodies.
 
 ### Genetic Identity Patent
-Patenting your own identity allow you to capitalize on your good genetic furtune by selling it off to the highest bidder.
+Patenting your own identity allow you to capitalize on your good genetic fortune by selling it off to the highest bidder.
 
 ### Drone Immunity
 Disguising yourself from drone oversight allows you to avoid domestic surveillance and foreign attacks.
