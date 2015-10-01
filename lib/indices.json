@@ -27,6 +27,6 @@
       "author": "Åzone",
       "abstract": "Åzone",
       "formula": "(1.0)*BSIC + (0.95)*NEUT + (0.95)*CRON + (0.9)*COIP + (0.8)*ALGO +(0.7)*EXCZ + (0.7)*CFAM + (0.6)*ENGY + (0.5)*LESS + (0.4)*DRUG + (0.2)*ROBO + (0)*PHDR +  (-0.1)*ASTR + (-0.2)*VOLE + (-0.5)*PRIM + (-0.6)*DNET + (-0.7)*NOID + (-0.75)*MMMN + (-0.8)*DCOG + (-0.8)*LONG + (-0.9)*DEVO + (-0.95)*EXTR + (-1.0)*COMM"
-    },
+    }
   ]
 }
