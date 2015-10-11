@@ -66,3 +66,12 @@ Protecting the Earth from rare but catastrophic cosmic collisions is a form of i
 
 ### Enforced Primitivism
 Putting a lid on a techno-progress run amok lets us return to a prelapsarian pastoral bliss.
+
+### Sexbots
+Sexually skilled robots that never say no. Combined with hyperreal virtual reality and bio-synthetic material, sex is decoupled from coupling and has finally arrived at the selfishness for which our bodies were designed.
+
+### Non-Biological Thinking
+Augment your intelligence by outsourcing some of your thinking to machines. Brain-control allows direct interfacing between your mind and lightning quick processors and fail-safe memory in wearables and in the cloud. Scale your knowledge and creativity throughout the day.
+
+### Disembodied Cognition
+Humans no longer have a monopoly on understanding. Artificial intelligence has become self-aware. It's no longer just about solving math problems or searching the Internet. Human being is now just one among many forms of being.
