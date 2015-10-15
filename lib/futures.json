@@ -1,165 +1,244 @@
 {
   "futures": [
     {
-      "name" : "Superlongevity",
-      "call_sign": "LONG",
-      "author_id": "",
-      "motto": "Engineering the body to survive for hundreds of years radically alters social orders tethered to life cycles, from education and retirement to family size and wealth accumulation.",
-      "abstract": "Evolution has been increasing the lifespan of humans for thousands of years. Super longevity accelerates this trend, engineering the body to survive for hundreds of years and radically altering reproductive and life cycles, such as education, retirement and labour."
-    },
-    {
-      "name" : "Universal Chronicle",
-      "call_sign": "CRON",
-      "author_id": "",
-      "motto": "A common, unimpeachable, searchable and verifiable register of historical facts takes history out of the sole hands of its winners.",
-      "abstract": "History has been consistently rewritten since the dawn of time. As more and more historical registers become digital, the ability to both rewrite and erase history has become increasingly easy. The power that was once limited to scholars and leaders is now in the hands of everyday hackers. A Global Crypto-Register would securely hold records (from land registries and birth records to scorekeeping and news articles), ensuring the first truly comprehensive representation of the past. Entries into the register would still be recorded with bias, but no one will have the power to erase any records. History doesn’t have to be written by winners any more."
-    },
-    {
       "name" : "Algorithmic Governance",
       "call_sign": "ALGO",
-      "author_id": "",
-      "motto": "Artificially intelligent political machines remove the bias from governance in favor of equity and sustainable resource management.",
-      "abstract": "Political systems, from democracy to communism, all suffer the same fatal flaw: they are dependent on human jurisdiction. Rather than running on fallible, emotionally unstable, unpredictable human will, a governance system fueled by artificial intelligence would not bear grudges, owe favors or suffer moods. Designating artificial intelligence legislators is not giving control to machines. An AI Governance System would be programmed to represent universally favorable values, providing truly representative governance. The problem with politics is politicians."
+      "abstract": "Artificially intelligent political machines have removed the bias from governance in favor of equality and sustainable resource management. Immune to the selfish, corruptible, and ideologically polarized aspects of human nature, political decisions determined exclusively by machines have produced a truly objective government."
+    },
+    {
+      "name" : "Amateurized Anonymity",
+      "call_sign": "ANON",
+      "abstract": "Tools for helping legal, military, and social service professionals, relief workers and journalists to keep their communications anonymous have finally been perfected and democratized. Encrypted messages now regularly circle the globe in plain sight while keeping information private."
+    },
+    {
+      "name" : "Bloodless War",
+      "call_sign": "LESS",
+      "abstract": "The arms race of killer robots has finally come to a stalemate reminiscent of the Cold War. Not willing to risk human life when drones can be deployed instead, warring states now resort to statistical victories and other forms of deathless diplomacy."
+    },
+    {
+      "name" : "Chinalization",
+      "call_sign": "CHNA",
+      "abstract": "China has become the dominant political and economic force in the world, dictating values from human rights and pollution control to education and urban planning standards to the rest of the world, overtaking the primacy of the United States."
+    },
+    {
+      "name" : "Communized Intellectual Property",
+      "call_sign": "COIP",
+      "abstract": "We have finally evolved beyond the era of intellectual property. Information has always wanted to be free but was everywhere in chains. Those chains have been broken, spawning new economic models of knowledge production and exchange and stimulating an explosion of collaborative innovation."
+    },
+    {
+      "name" : "Constant Migration",
+      "call_sign": "MIGR",
+      "abstract": "A new nomadic age driven by increased rootlessness, migration, and the erasure of national borders has created a world in transit. Cities have become temporary zones, providing the infrastructure for a fluid society connected by cloud-based services available anywhere."
     },
     {
       "name" : "Contractual Families",
       "call_sign": "CFAM",
-      "author_id": "Martti Kalliala",
-      "motto": "In an increasingly globally dispersed world, updating the family unit to be post-bloodlines creates a new stability mechanism for the nomadic.",
-      "abstract": "Increasingly gender diverse and physically separated, the nature of family is changing and so should its economic and legal reality. If new families are already being created outside of the traditions of blood lines and surnames, the next logical step is to allow individuals to form families at will and design the relationships between members while retaining the rights afforded a family. A Contractual Family would be legally binding for a specific period of time, allowing individuals to create temporary dependent relationships. The notion of committing to anything for a lifetime no longer makes sense. Choose to file taxes jointly and share federal issued benefits with the logical choice for now."
+      "abstract": "In an increasingly globally dispersed world, the family has evolved past bloodlines, normalizing what were once considered alternative lifestyles. Familial freedom allows individuals to customize their legal kin while still retaining the economic and rights afforded to a family."
     },
     {
-      "name" : "Memory Manipulation",
-      "call_sign": "MMMN",
-      "author_id": "",
-      "motto": "Increased understanding of the brain and long-term immersion in virtual reality allows for the manipulation of our minds in ways that redefine what it means to be human.",
-      "abstract": "Virtual Reality (VR) is an audiovisual experience that simulates physical presence in spaces. Increasingly indistinguishable from reality, VR is primarily used in the entertainment industry as a tool to transport you to another world. Why not utilize the technology as an immersive time capsule? If your entire life was recorded, you could travel back in time with VR Memory Playback and re-live your memories. Potential applications range from daily recollection to literally walking in someone else’s shoes. In an increasingly oversaturated world, VR Memory Playback would take on the burden of memory allowing people to focus on the present."
+      "name" : "Data Taxation",
+      "call_sign": "DTAX",
+      "abstract": "Data is the new carbon. Overwhelmed by endless flows of realtime information pouring out of every person, place and thing, even Moore's Law describing the exponential growth of computer memory and processing power couldn't keep up. Taxing the production and collection of data has revealed the true price of information."
     },
     {
-      "name" : "Extrastate Citizenship",
-      "call_sign": "EXCZ",
-      "author_id": "",
-      "motto": "Belonging to advocacy communities that are not tethered to physical territories increases mobility and stability in an increasingly unstable world.",
-      "abstract": "Are states the best place to belong to? Nations are just imagined communities of people bound by law and territory. With an increase in our lives being lived online, from work to socializing, we are not as tethered to physical space as we once were. Why, then, is citizenship our principal form of identification? Extrastate citizenship offers the protection of a country without the limitations of being saddled with resources to protect and wars to wage. This citizenship would allow people from reporters and travel writers to teachers and archaeologists to embrace a nomadic lifestyle, completely eliminating the immigrant crisis. Patriotism is oppression."
+      "name" : "Decentralized Sustainable Energy",
+      "call_sign": "DCEN",
+      "abstract": "Advancements in battery and domestic energy harvesting technologies like solar have finally unseated the power of petroleum, both geopolitically and as a source of carbon pollution. The new energy landscape is increasingly fractured with peer-to-peer distribution of electricity from solar-rich regions to their neighbors."
     },
     {
-      "name" : "Robotic Medicine",
-      "call_sign": "ROBO",
-      "author_id": "",
-      "motto": "Nano-technology and the 3D printing of organic tissue offers a new class of biological machines that engineer our health from within our bodies.",
-      "abstract": "Artificial organs and limbs have been experimented with for decades -- why not insert ‘smart’ technology into your body? From 3D printed organs to microscopic robotic medicine running through your your bloodstream, implantable robotic medicine would revolutionize disease testing, prevention, treatment. Rather than rolling the dice and responding to issues as they arise, Robotic Medicine allows doctors to monitor a patient’s progress and alter dosage remotely. Let doctors embrace robotic technologies, don’t leave your health up to biology."
-    },
-    {
-      "name" : "Commercialized Identity",
-      "call_sign": "COMM",
-      "author_id": "",
-      "motto": "In an era of gene sequencing and manipulation, selling your genetic code allows you to profit from your best assets.",
-      "abstract": "Genetically engineering a fetus while it is still in the womb produces what is known as a ‘designer baby’. Today, doppelgangers are constructed with plastic surgery, but in the future one could design their baby to take on the visage, personality or talent of their favorite pop or sports star. To prevent the theft and potential proliferation of your genetic identity, invest in a patent to protect your unique look. Alternatively, profit off of your full lips or high jump by patenting your genetic identity and selling it to the highest bidder."
-    },
-    {
-      "name" : "Post-Human Driving",
-      "call_sign": "PHDR",
-      "author_id": "",
-      "motto": "Banning the human operation of all vehicles on land, sea and air optimizes transport for speed, energy use and safety.",
-      "abstract": "Cars that drive themselves, using sensors to perceive and interpret the environment around them to navigate our existing roads, are being developed by companies like Google, Mercedes, BMW and Tesla. They will increase mobility for those who can’t drive themselves and have the potential to revolutionize infrastructure, regional travel, and vehicular accident rates. Every self-driving car accident to date has been caused by human error, either in an adjacent car or through manual override. Investing in Post-Human Driving would allow self-driving cars to operate safely and efficiently. The problem with self driving cars is humans."
-    },
-    {
-      "name" : "Dismantling the Internet",
-      "call_sign": "DNET",
-      "author_id": "",
-      "motto": "Tearing down the Internet returns us to a pre-networked pastoral existence wherein technological progress does not dominate historicity.",
-      "abstract": "Beyond existing as a spawning ground for bullying, terrorism, sex rings and drug networks, the internet is highly monopolized and surveilled. Regulation has rendered the internet unrecognizable; opaque policies benefit the minority, and push criminal activity deeper underground. The internet as a democratic space for open communication is a distant memory. The solution, for both those who see the internet as too volatile for its own good and those who feel that their freedom of speech has been infringed upon, is to dismantle the internet entirely."
-    },
-    {
-      "name" : "Global Net Neutrality",
-      "call_sign": "NEUT",
-      "author_id": "",
-      "motto": "Connecting the entire world to the Internet and keeping it open and free accelerates human evolution.",
-      "abstract": "Net Neutrality preserves the right to communicate freely online by mandating that all content, applications and services are treated equally. More than just enabling and protecting free speech, an open internet ensures universal access to knowledge. Global Net Neutrality would prevent individual countries from regulating the internet, ensuring international open communication. As digital presence begins to eclipse the physical, it is essential to ensure digital equality to prevent the marginalization of those with limited influence and access to the internet. Net neutrality is a human right."
-    },
-    {
-      "name" : "Common Intellectual Property",
-      "call_sign": "COIP",
-      "author_id": "",
-      "motto": "Open sourcing the collective intelligence of human knowledge benefits the many rather than enriching the few.",
-      "abstract": "The culture that intellectual property law engenders is ruthless and competitive. Alternatively, the open source development model allows data and information to be freely shared, used and changed by anyone. This decentralized culture promotes innovation through collaboration. Common Intellectual Property will unleash the latent potential of both people and ideas. Why restrict creative development to the people with the initial vision? Current IP laws are outdated and pastoral. Do away with trade secrets by decoupling ideas from people"
-    },
-    {
-      "name" : "Basic Universal Income",
-      "call_sign": "BSIC",
-      "author_id": "",
-      "motto": "A more even distribution of the resources of the world creates a society of equality in which everyone can contribute without anxiety over the bare essentials.",
-      "abstract": "Basic universal income is an unconditional form of payment that covers an individual’s living and health care costs. This kind of system not only ensures a basic standard of living, it supports a flexible, freelance lifestyle. Uber contractors currently don’t have a support system if they are sick or  injured, basic universal income would create a safety net for the on-demand workforce. A global, universal system would provide these benefits without requiring tests or creating conditions."
+      "name" : "Direct Economy",
+      "call_sign": "DIRC",
+      "abstract": "Global universal and personal digital currencies have enabled a direct economy of micropayments without transaction costs. Removing the cost of the circulation of money, tiny fractions of currency are now used regularly to pay for objects and services directly from consumer to producer without financial middlemen."
     },
     {
       "name" : "Drug Decriminalization",
       "call_sign": "DRUG",
-      "author_id": "",
-      "motto": "Augmenting human performance with narcotics is a necessary strategy to compete in a global world of machines.",
-      "abstract": "The war on drugs has spiraled into political hysteria. Drugs that had been used for both medical and spiritual purposes for thousands of years are currently illegal. Prohibition is a financial and social burden that has not diminished drug use or abuse. In fact, the disproportionate value placed upon illegal substances has given criminals the upper hand. Drug decriminalization would allow qualified physicians to monitor and regulate dosages of even the most potent drugs. Let science shape policy, and take the authority away from criminals."
+      "abstract": "As performance modifications continue to reshape the human body in increasingly invasive and irreversible ways, temporary drug-induced visits to states of hyper focus and productivity or anxiety relief and egomania have begun to seem innocent. Drugs of all sorts have since been decriminalized, reforming the American prison industry and human productivity."
     },
     {
-      "name" : "Voluntary Employment",
-      "call_sign": "VOLE",
-      "author_id": "",
-      "motto": "Offloading labor to robots allows humanity to evolve to a post-scarcity state where everyone can choose how they want to spend their time.",
-      "abstract": "Aging populations leads to a labor shortage, luckily as the workforce becomes more automated, the relationship between people and work will change. Labor will be increasingly augmented by machines, but also autonomous machines will have the potential to construct everything from small scale devices to large-scale infrastructure without human supervision. Volunteer Employment will allow people to spend their time doing activities for personal fulfillment. Workforce automation will not only boost efficiency, it will unleash the latent potential of the human race."
-    },
-    {
-      "name" : "Cheap Energy",
+      "name" : "Endless Energy",
       "call_sign": "ENGY",
-      "author_id": "",
-      "motto": "Cheap in cost and externalities like pollution, energy sources like thermonuclear or solar will save us from climate change and the oppression of petro-regimes.",
-      "abstract": "The monopolization of energy sources has allowed a few multibillion dollar companies to force outdated technology on the masses. Bureaucratic barriers have hindered the push towards renewable and sustainable energy.  Energy Democratization would both ensure the development of affordable energy and mandate the even distribution of energy globally, producing more than enough energy to sustain a high standard of living for every person on the planet. Our dependence on fossil fuels has both environmental and economic repercussions. We need to allow energy to move from scarcity to abundance."
+      "abstract": "Cheap in cost and externalities like pollution, the large-scale harnessing of limitless energy sources like thermonuclear and solar have finally unseated the power of petroleum, both geopolitically and as a source of carbon pollution. The electrification of mechanical technology makes it both smarter and more efficient."
     },
     {
-      "name" : "Designer Evolution",
-      "call_sign": "DEVO",
-      "author_id": "",
-      "motto": "Manipulating our genetic inheritance allows us to finally take control of the trajectory of our species.",
-      "abstract": "Advances in genetic engineering will lead to a deeper understanding of the abnormalities that plague the human body. Imagine if color blindness, down syndrome, cystic fibrosis and all other genetic disorders were a thing of the past. Prenatal Genetic Modification could stem disorders by rewriting genetic code before your child is even born, turning hospitals into computer code. The world is evolving at a rapid pace, and humans need to keep up. The eradication of genetic disorder is the next form of human evolution."
+      "name" : "Extraterrestrial Mining",
+      "call_sign": "MINE",
+      "abstract": "Our condition of increasing resource scarcity was eradicated by exploiting the final frontier, mineral rich asteroids. Fully automated space missions tap into off-earth resources, turning asteroids into cosmic colonies in a new wave of imperialism."
     },
     {
-      "name" : "Distributed Cognition",
-      "call_sign": "DCOG",
-      "author_id": "",
-      "motto": "Turning our brains into a global super computer will bring civilization to a new order of understanding, productivity and enrichment.",
-      "abstract": "Imagine if backing up your thoughts was as easy as backing up your computer. If cognition was off-loaded to technology, the extended mind would allow you to selectively access knowledge as you need it. Learning a language would be as simple as downloading a file. Making a copy of your mind would allow you to upload it into any other form, from the cloud to a robot to a harddrive sent deep into space looking for a new world. Nomadic Cognition would permit you to remotely organize your mind, selectively accessing or repressing individual thoughts and opinions. The sharing potentials are endless. Make the most out of your mind, bodies are temporary houses."
+      "name" : "Fresh Water Democratization",
+      "call_sign": "WATR",
+      "abstract": "The days of fresh water scarcity and rolling droughts are over. Whether in California or the most remote fringes of inhabitable territories, new technologies of water purification have undone some of the inequities of climate change, bringing fresh water to all, from thirsty people to thirsty farms."
+    },
+    {
+      "name" : "Genomic Omniscience",
+      "call_sign": "GENO",
+      "abstract": "A comprehensive understanding of the human genome and globally accessible records of patient DNA profiles has created a God’s eye view of the abnormalities that plague the human body. Health care now trumps genetic inheritance. We have finally taken control of the trajectory of our own species."
+    },
+    {
+      "name" : "Global Net Neutrality",
+      "call_sign": "NEUT",
+      "abstract": "Communicating freely and accessing information online has become a de facto basic human right. With advances in the production of electricity, the distribution of Internet-enabled mobile devices, and global network access, governments are no longer able to reliably restrict access to online content."
     },
     {
       "name" : "Identity Cloaking",
       "call_sign": "NOID",
-      "author_id": "",
-      "motto": "Anonymity in our state of ubiquitous surveillance allows for the flourishing of new ideas, economies and social orders.",
-      "abstract": "Advanced technology has both simplified and intensified voyeurism. Collecting data for the greater good or for more sinister purposes has become one of the primary uses of the internet. With an increasing number of smart, interconnected devices we have become susceptible to intelligent surveillance even when we are not on our computers. What if you could camouflage your fingerprints and irises, or choose to not leave traces of DNA in public spaces? Identity Cloaking would give people the ability to control their own anonymity by selectively concealing both their digital data and physical bio-data. Prevent your data from being used without your knowledge by enacting self-controlled anonymity"
+      "abstract": "Ubiquitous and autonomous surveillance have introduced new forms of fingerprints. The rhythm with which you type, the way you walk, or the traces of DNA you leave on a wine glass at a restaurant, can all be used to uniquely identify you. Scrambling your signals from time to time grants you a vacation from continuous prying."
     },
     {
-      "name" : "Extraterrestrial Living",
-      "call_sign": "EXTR",
-      "author_id": "",
-      "motto": "Our condition of increasing resource scarcity is eradicated by the colonization of other planets and mineral rich asteroids.",
-      "abstract": "The untold space beyond Earth presents a blank slate for new forms of research and development. Interplanetary Living can take the form of Extraterrestrial Colonies, providing a space to live, but more than that, creating an ideal beta test environment for everything from new forms of social order to a safe space for hazardous biotech experiments that are too dangerous to run on earth. Distinctly different, independent living conditions can be designed, satisfying both the the luddite and the technophile. Space is both a refuge from life on earth and an untapped frontier."
+      "name" : "Innocuous Agriculture",
+      "call_sign": "AGRO",
+      "abstract": "The days of slowing introducing your child to potentially poisonous food like peanuts are over. Through genetic modification, peanuts, wheat, soy, and tree nuts are engineered to grow without the proteins that are responsible for allergies. We have stopped fearing our food."
     },
     {
-      "name" : "Enforced Primitivism",
-      "call_sign": "PRIM",
-      "author_id": "",
-      "motto": "Putting a lid on a techno-progress run amok lets us return to a prelapsarian pastoral bliss.",
-      "abstract": "As technological advances become more and more extreme, their impact on society is increasingly difficult to predict. Why allow companies to turn your life into a beta-test environment? Not all new technologies are inherently good. Enforced Primitivism allows you to live beyond government regulation and societal norms, allowing you to choose the technology that you embrace. Dedicating your life to living simply and sustainable transforms your lifestyle from dependent and deprived to self-sufficient and empowered."
+      "name" : "Interplanetary Living",
+      "call_sign": "INTR",
+      "abstract": "Colonies on Mars are a refuge from life on earth, both an ideal beta test environment for everything from new forms of governance, economies, and belief systems to a safe space for hazardous biotech experiments that are too dangerous to run on earth."
     },
     {
-      "name" : "Deathless Combat",
-      "call_sign": "LESS",
-      "author_id": "",
-      "motto": "Wars fought by robotic proxy keeps the human tradition of conflict in play while removing human life from the equation.",
-      "abstract": ""
+      "name" : "Legislated Luddism",
+      "call_sign": "LUDD",
+      "abstract": "The social turmoil of mass automation reaching beyond routine labor into the domain of knowledge workers spawned legislation that restricts the deployment of technologies unless it can be shown it will not forcibly reduce existing employees. Outlawing such innovations has secured the traditional place of labor."
     },
     {
-      "name" : "Asteroid Shield",
-      "call_sign": "ASTR",
-      "author_id": "",
-      "motto": "Protecting the Earth from rare but catastrophic cosmic collisions is a form of insurance that lets us focus our productive attention locally.",
-      "abstract": ""
+      "name" : "Liquid Policy",
+      "call_sign": "LIQD",
+      "abstract": "Traditional top-down policy creation by government officials has been replaced with direct democratic engagement through networked tools. Legislation is now created, edited and managed in real-time by the crowd as a way of finding natural consensus on issues that affect collective life."
+    },
+    {
+      "name" : "Manageable Weather",
+      "call_sign": "WTHR",
+      "abstract": "Increases in predictability and the capacity to geoengineer localized weather events has tamed this tempestuous element of nature, turning weather dependent sustainable energy, travel and sporting events into controllable situations."
+    },
+    {
+      "name" : "Mass Biomanufacturing",
+      "call_sign": "BIOM",
+      "abstract": "The large scale manufacturing of organic tissue has created high performance replacement parts for human bodies inside and out, from organs to ears. Self-healing materials have expanded the sustainability of large scale infrastructure projects and extraterrestrial missions, allowing parts to be grown on site rather than shipped from around the world or carried onboard."
+    },
+    {
+      "name" : "Material Magic",
+      "call_sign": "MAGC",
+      "abstract": "Material innovation has produced an avalanche of paradigm shifts. This new generation of high-performance metals, fabrics, adhesives, and nanomaterials has enabled previously unimaginable products that perform magical feats as part of daily life."
+    },
+    {
+      "name" : "Mechanized Risk",
+      "call_sign": "RISK",
+      "abstract": "Humans no longer fight fires or organized crime, nor do we control the flow of air planes or oversee nuclear reactors. A human life is finally too valuable to be risked. Robots soft and hard are now our primary security providers."
+    },
+    {
+      "name" : "Memory Augmentation",
+      "call_sign": "MEMA",
+      "abstract": "Having archived the world’s knowledge online, memory augmentation goes one step further by removing the burden of biological recollection. Moving personal memory to digital storage has freed us up to focus on processing the present, and to connect the memory of our individual experiences with that of historical societies and our contemporary peers."
+    },
+    {
+      "name" : "Moral Enhancement",
+      "call_sign": "MORE",
+      "abstract": "Neuro-pharmaceuticals that increase situational awareness have become pervasive. Their side effect of increased empathy has led to profound human compassion and resulted in a war on inequality and the regular relieving of debt obligations."
+    },
+    {
+      "name" : "Neuro Mastery",
+      "call_sign": "NURO",
+      "abstract": "We finally understand the human brain enough to heal and expand it biologically and interface with it digitally. Dementia, autism and mental illness have become no more disruptive than the flu, while brain augmentation and nootropics have surpassed cosmetic surgery and steroids as the ultimate medical indulgence. More and more people are outsourcing their thinking to the cloud."
+    },
+    {
+      "name" : "Non-human Political Representation",
+      "call_sign": "NONH",
+      "abstract": "The proliferation of real-time feeds from the natural world, from animals and plants to glaciers and ocean currents, has turned formerly inarticulate objects into a shouting symphony of new voices. Climate change has formed new attitudes resulting in new political systems that gives the environment a vote."
+    },
+    {
+      "name" : "Perpetual Knowledge Beta",
+      "call_sign": "BETA",
+      "abstract": "Formal education has been transformed by lifelong learning enabled by the democratization of knowledge through online courses and other on-demand skilling. Learning to learn has replaced credentialing, forcing universities to update business models and removing financial and other access barriers to education. Career paths have become much less linear."
+    },
+    {
+      "name" : "Personalized Medicine",
+      "call_sign": "PMED",
+      "abstract": "Medical treatment is more effective when it is patient-specific. Standardized gene therapy, general vaccines and antibiotics are a thing of the past for those who can afford to have customized medicine to target their unique symptoms."
+    },
+    {
+      "name" : "Planetary Insurance",
+      "call_sign": "PLAN",
+      "abstract": "Geoengineering has taken command of climate change, asteroid threats, volcanic ash clouds and super earthquakes to a level that has eliminated fears of existential risk. The human race now lives free of the anxiety of its own extinction from rare and catastrophic events."
+    },
+    {
+      "name" : "Post-Human Driving",
+      "call_sign": "DRIV",
+      "abstract": "The biggest threat to self-driving vehicles is human drivers. The ban on human-operated vehicles on land, sea and air has optimized transport for speed, energy use and safety. Beyond eradicating accidents, self-driving vehicles have also expanded personal mobility to those who can’t drive themselves, while revolutionizing regional travel, infrastructure and logistics."
+    },
+    {
+      "name" : "Post-Labor Unionization",
+      "call_sign": "PLUN",
+      "abstract": "As automation has made human labor unnecessary, and voluntary self-employment based on individual interests has become the norm, the nineteenth and twentieth century techniques of organized labor have become obsolete, replaced by new forms of unionization based on commonalities outside of work."
+    },
+    {
+      "name" : "Post-Scarcity Farming",
+      "call_sign": "FARM",
+      "abstract": "Supercharged photosynthesis, big data farming, electric ‘pinkhouses’ and underwater biosphere agriculture have boosted crop yields, accommodating demand from growing populations. Tightly controlled ecologies and dynamic environmental control systems have led to reliable output predictions, ensuring the nourishment of billions of people."
+    },
+    {
+      "name" : "Privatized Identityg",
+      "call_sign": "PRID",
+      "abstract": "Having crossed the designer baby singularity in which everyone now chooses to alter the DNA of their unborn children, the uniqueness of appearance and ability that was once the norm has become a luxury. Patenting your genome allows you to put a price on your individuality and capitalize off of the proliferation of your best traits."
+    },
+    {
+      "name" : "Promiscuous Citizenship",
+      "call_sign": "PRMS",
+      "abstract": "Countries have lost their monopoly on sovereignty. Social networks and other platforms that have swelled in influence and wealth beyond most countries have begun to issue passports and the benefits of belonging once only offered by states. Divorced from birthright and patriotism, people often switch sovereign service providers."
+    },
+    {
+      "name" : "Quantified-Self Help",
+      "call_sign": "HELP",
+      "abstract": "Personalized health tracking has become commonplace, adding a new layer of diagnostic information through biometrics. Physicians now incorporate live data into treatment plans, and the self-help publishing machine and religion have found a new outlet in data-driven apps that target depression, personal fulfilment and enlightenment."
+    },
+    {
+      "name" : "Robotic Medicine",
+      "call_sign": "ROBO",
+      "abstract": "Nano-technology offers a new class of machines that engineer and monitor our health from within the body. Rather than rolling the dice of life and responding to issues as they arise, Robotic Medicine allows doctors to track patient progress and alter therapies remotely, revolutionizing disease testing, prevention, and treatment."
+    },
+    {
+      "name" : "Service Appreciation",
+      "call_sign": "SERV",
+      "abstract": "Technological mediation of all experiences has placed a premium on human interaction. The service industry has migrated up the employment hierarchy as the human touch has become the ultimate luxury and providing it has become a lucrative endeavor."
+    },
+    {
+      "name" : "Simulation Singularity",
+      "call_sign": "SIMS",
+      "abstract": "Virtual reality has become indistinguishable from what used to be called, simply, reality. The entertainment, travel, consulting, athletic training and sex industries, amongst many others, are now regularly overturned by startups fueled by venture capital eager to disrupt physical presence."
+    },
+    {
+      "name" : "Supercharged Humanity",
+      "call_sign": "SUPR",
+      "abstract": "Having left our naturally-evolved bodies behind, humans have entered a new phase of hypersensitivity and super strength aided by networked prosthetics. Seeing in the dark, tasting new flavors and long distance listening have spawned new cuisines, sports and labor, while climbing Everest has become a retirement plan."
+    },
+    {
+      "name" : "Supersonic Travel",
+      "call_sign": "TRVL",
+      "abstract": "The global village is no longer just an effect of virtual networking. Planes, trains and other vehicles traveling faster than the speed of sound create a new paradigm in business and recreational travel and shrink the perception and experience of planetary scale."
+    },
+    {
+      "name" : "Universal Basic Income",
+      "call_sign": "BSIC",
+      "abstract": "Mass unemployment paired with never before experienced material surpluses provided by a computerized work force has stripped the pejorative flavor of welfare. Regular payments to all citizens have become commonplace, equally distributing enough wealth for everyone to live an acceptable quality of life without having to work."
+    },
+    {
+      "name" : "Universal Chronicle",
+      "call_sign": "CRON",
+      "abstract": "A universally accessible and secure historical record has proven to be a radically disruptive to the institutions that structure our social order. Used as a platform for applications like voting, insurance, censuses and ownership claims, the injustices of repressive political regimes and corporate thieves are clear for everyone to see."
+    },
+    {
+      "name" : "Unsupervised Production",
+      "call_sign": "UPRO",
+      "abstract": "Autonomous labor machines driven by advancements in artificial intelligence have evolved beyond the need for human oversight. Workforce automation is not only more efficient, it also relieves us from toil while providing for greater material surpluses than we have ever achieved with human labor."
+    },
+    {
+      "name" : "Venture Communism",
+      "call_sign": "VCOM",
+      "abstract": "Recognizing venture capitalism as a powerful economic approach, countries begin to invest taxpayer funds in high risk, high reward basic technological research. Innovation has shifted from startups to the state, bringing the exponential returns of network effects and disruption to the people."
+    },
+    {
+      "name" : "Wasteless Ecology",
+      "call_sign": "WSTE",
+      "abstract": "The discovery of new biological, physical, and chemical processes that eliminate the physical waste that used to overrun landfills, poison water sources and clog up the oceans has fueled a sustainable plastic and styrofoam renaissance. Once wondrous material innovations that environmentalism vilified have returned to grace."
     }
   ]
 }
