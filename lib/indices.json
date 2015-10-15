@@ -4,29 +4,29 @@
       "name" : "Safe",
       "call_sign": "SAFE",
       "author": "Åzone",
-      "abstract": "Surveillance is a small price to pay for security. Freedom is relative. If you don't feel safe, how can you feel free? Everything necessary should be done to ",
-      "formula": "(1.0)*ASTR + (0.95)*LESS + (0.9)*PRIM + (0.8)*ENGY + (0.6)*CRON + (0.5)*DNET + (0.3)*ROBO + (0.2)*PHDR + (0.1)*ALGO + (0.0)*NOID + (-0.1)*BSIC + (-0.3)*VOLE + (-0.4)*CFAM + (-0.5)*EXCZ + (-0.6)*NEUT + (-0.6)*COIP + (-0.7)*DEVO + (-0.8)*EXTR + (-0.85)*LONG + (-0.9)*COMM + (-0.9)*DRUG + (-0.95)*MMMN + (-1.0)*DCOG"
+      "abstract": "TK",
+      "formula": "(1)*DRIV + (1)*ALGO + (0.9)*RISK + (0.8)*AGRO + (0.8)*UPRO + (0.8)*LUDD + (0.75)*SERV + (0.75)*LESS + (0.7)*ENGY + (0.6)*ROBO + (0.5)*MORE + (0.45)*PLAN + (0.4)*SUPR + (0.4)*DTAX + (0.35)*FARM + (0.3)*HELP + (0.3)*WSTE + (0.2)*PMED + (0.2)*MEMA + (0.2)*VCOM + (0.1)*CRON + (0)*BSIC + (0)*WATR + (0)*CHNA + (0)*NONH + (-0.1)*NURO + (-0.15)*DCEN + (-0.2)*MINE + (-0.25)*SIMS + (-0.3)*INTR + (-0.4)*MAGC + (-0.5)*PROS + (-0.5)*BIOM + (-0.5)*NEUT + (-0.6)*MIGR + (-0.6)*PLUN + (-0.65)*LIQD + (-0.7)*BETA + (-0.7)*GENO + (-0.8)*COIP + (-0.85)*ANON + (-0.9)*PRID + (-0.9)*CFAM + (-0.9)*DRUG + (-0.9)*DIRC + (-0.95)*TRVL + (-1)*NOID + (-1)*WTHR"
     },
     {
-      "name": "Doomed",
-      "call_sign": "DOOM",
+      "name": "Communal",
+      "call_sign": "CMMN",
       "author": "Åzone",
-      "abstract": "Climate change is inevitable, the stock market has commodified all real value into a playground for the rich and a blackhole for the poor, increasing global wealth and urbanization have served to similarly scale the evils in human nature, and we welcome threats to our very existence like computational superintelligence and have no defense against others like asteroid collisions. Enjoy it while you can because we're doomed.",
-      "formula": "(1.0)*COMM + (0.95)*EXTR + (0.9)*DEVO + (0.8)*LONG + (0.8)*DCOG + (0.75)*MMMN + (0.7)*NOID + (0.6)*DNET + (0.5)*PRIM + (0.2)*VOLE + (-0.1)*ASTR + (0.0)*PHDR + (-0.2)*ROBO + (-0.4)*DRUG + (-0.5)*LESS +  (-0.6)*ENGY + (-0.7)*CFAM + (-0.7)*EXCZ + (-0.8)*ALGO + (-0.9)*COIP + (-0.95)*CRON + (-0.95)*NEUT + (-1.0)*BSIC"
+      "abstract": "TK",
+      "formula": "(1)*ALGO + (1)*NONH + (0.9)*LUDD + (0.9)*LIQD + (0.9)*DIRC + (0.85)*PLAN + (0.8)*ENGY + (0.8)*CRON + (0.7)*PLUN + (0.7)*WTHR + (0.65)*WSTE + (0.5)*COIP + (0.45)*UPRO + (0.4)*MAGC + (0.35)*DTAX + (0.35)*VCOM + (0.3)*CHNA + (0.3)*INTR + (0.2)*MINE + (0.15)*FARM + (0.1)*LESS + (0.1)*WATR + (0.1)*DRUG + (0)*SERV + (0)*SIMS + (0)*NEUT + (0)*TRVL + (-0.1)*BSIC + (-0.1)*CFAM + (-0.2)*AGRO + (-0.2)*MEMA + (-0.25)*NURO + (-0.3)*BIOM + (-0.3)*MIGR + (-0.4)*HELP + (-0.5)*RISK + (-0.5)*MORE + (-0.5)*PROS + (-0.6)*ANON + (-0.65)*ROBO + (-0.65)*DCEN + (-0.7)*GENO + (-0.85)*DRIV + (-0.85)*SUPR + (-0.9)*PRID + (-1)*PMED + (-1)*BETA + (-1)*NOID"
     },
     {
       "name": "Free",
       "call_sign": "FREE",
       "author": "Åzone",
-      "abstract": "Åzone",
-      "formula": "(1.0)*DCOG + (0.95)*MMMN + (0.9)*DRUG + (0.9)*COMM + (0.85)*LONG + (0.8)*EXTR + (0.7)*DEVO + (0.6)*COIP + (0.6)*NEUT + (0.5)*EXCZ + (0.4)*CFAM + (0.3)*VOLE + (0.1)*BSIC + (0.0)*NOID + (-0.1)*ALGO + (-0.2)*PHDR + (-0.3)*ROBO + (-0.5)*DNET + (-0.6)*CRON + (-0.8)*ENGY + (-0.9)*PRIM + (-0.95)*LESS + (-1.0)*ASTR"
+      "abstract": "TK",
+      "formula": "(1)*NOID + (1)*WTHR + (0.95)*TRVL + (0.9)*PRID + (0.9)*CFAM + (0.9)*DRUG + (0.9)*DIRC + (0.85)*ANON + (0.8)*COIP + (0.7)*BETA + (0.7)*GENO + (0.65)*LIQD + (0.6)*MIGR + (0.6)*PLUN + (0.5)*PROS + (0.5)*BIOM + (0.5)*NEUT + (0.4)*MAGC + (0.3)*INTR + (0.25)*SIMS + (0.2)*MINE + (0.15)*DCEN + (0.1)*NURO + (0)*BSIC + (0)*WATR + (0)*CHNA + (0)*NONH + (-0.1)*CRON + (-0.2)*PMED + (-0.2)*MEMA + (-0.2)*VCOM + (-0.3)*HELP + (-0.3)*WSTE + (-0.35)*FARM + (-0.4)*SUPR + (-0.4)*DTAX + (-0.45)*PLAN + (-0.5)*MORE + (-0.6)*ROBO + (-0.7)*ENGY + (-0.75)*SERV + (-0.75)*LESS + (-0.8)*AGRO + (-0.8)*UPRO + (-0.8)*LUDD + (-0.9)*RISK + (-1)*DRIV + (-1)*ALGO"
     },
-     {
-      "name": "Fair",
-      "call_sign": "FAIR",
+    {
+      "name": "Personal",
+      "call_sign": "PERS",
       "author": "Åzone",
-      "abstract": "Åzone",
-      "formula": "(1.0)*BSIC + (0.95)*NEUT + (0.95)*CRON + (0.9)*COIP + (0.8)*ALGO +(0.7)*EXCZ + (0.7)*CFAM + (0.6)*ENGY + (0.5)*LESS + (0.4)*DRUG + (0.2)*ROBO + (0)*PHDR +  (-0.1)*ASTR + (-0.2)*VOLE + (-0.5)*PRIM + (-0.6)*DNET + (-0.7)*NOID + (-0.75)*MMMN + (-0.8)*DCOG + (-0.8)*LONG + (-0.9)*DEVO + (-0.95)*EXTR + (-1.0)*COMM"
+      "abstract": "TK",
+      "formula": "(1)*PMED + (1)*BETA + (1)*NOID + (0.9)*PRID + (0.85)*DRIV + (0.85)*SUPR + (0.7)*GENO + (0.65)*ROBO + (0.65)*DCEN + (0.6)*ANON + (0.5)*RISK + (0.5)*MORE + (0.5)*PROS + (0.4)*HELP + (0.3)*BIOM + (0.3)*MIGR + (0.25)*NURO + (0.2)*AGRO + (0.2)*MEMA + (0.1)*BSIC + (0.1)*CFAM + (0)*SERV + (0)*SIMS + (0)*NEUT + (0)*TRVL + (-0.1)*LESS + (-0.1)*WATR + (-0.1)*DRUG + (-0.15)*FARM + (-0.2)*MINE + (-0.3)*CHNA + (-0.3)*INTR + (-0.35)*DTAX + (-0.35)*VCOM + (-0.4)*MAGC + (-0.45)*UPRO + (-0.5)*COIP + (-0.65)*WSTE + (-0.7)*PLUN + (-0.7)*WTHR + (-0.8)*ENGY + (-0.8)*CRON + (-0.85)*PLAN + (-0.9)*LUDD + (-0.9)*LIQD + (-0.9)*DIRC + (-1)*ALGO + (-1)*NONH"
     }
   ]
 }
