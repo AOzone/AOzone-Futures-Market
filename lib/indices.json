@@ -19,4 +19,4 @@
       "formula": "(1)*ALGO + (1)*NONH + (0.9)*LUDD + (0.9)*LIQD + (0.8)*URGY + (0.7)*PLUN + (0.7)*WTHR + (0.65)*WSTE + (0.5)*COIP + (0.45)*UPRO + (0.4)*MAGC + (0.35)*DATA + (0.3)*INTR + (0.15)*FARM + (0.1)*LESS + (0.1)*WATR + (0.1)*DRUG + (0)*TAPP + (0)*SIMS + (-0.1)*BSIC + (-0.1)*CFAM + (-0.2)*AGRO + (-0.2)*MEMA + (-0.3)*BIOM + (-0.5)*RISK + (-0.5)*MORE + (-0.5)*PROS + (-0.6)*ANON + (-0.65)*ROBO + (-0.65)*DCEN + (-0.85)*DRIV + (-0.85)*SUPR + (-0.9)*PRID + (-1)*PMED + (-1)*BETA + (-1)*NOID"
     }
   ]
-}
+} 
