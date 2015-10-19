@@ -1,32 +1,22 @@
 {
   "indices": [
     {
-      "name" : "Safe",
-      "call_sign": "SAFE",
+      "name" : "Control",
+      "call_sign": "CTRL",
       "author": "Åzone",
       "abstract": "TK",
-      "formula": "(1)*DRIV + (1)*ALGO + (0.9)*RISK + (0.8)*AGRO + (0.8)*UPRO + (0.8)*LUDD + (0.75)*SERV + (0.75)*LESS + (0.7)*ENGY + (0.6)*ROBO + (0.5)*MORE + (0.45)*PLAN + (0.4)*SUPR + (0.4)*DTAX + (0.35)*FARM + (0.3)*HELP + (0.3)*WSTE + (0.2)*PMED + (0.2)*MEMA + (0.2)*VCOM + (0.1)*CRON + (0)*BSIC + (0)*WATR + (0)*CHNA + (0)*NONH + (-0.1)*NURO + (-0.15)*DCEN + (-0.2)*MINE + (-0.25)*SIMS + (-0.3)*INTR + (-0.4)*MAGC + (-0.5)*PROS + (-0.5)*BIOM + (-0.5)*NEUT + (-0.6)*MIGR + (-0.6)*PLUN + (-0.65)*LIQD + (-0.7)*BETA + (-0.7)*GENO + (-0.8)*COIP + (-0.85)*ANON + (-0.9)*PRID + (-0.9)*CFAM + (-0.9)*DRUG + (-0.9)*DIRC + (-0.95)*TRVL + (-1)*NOID + (-1)*WTHR"
+      "high": "Freedom",
+      "low": "Safety",
+      "formula": "(1)*DRIV + (1)*ALGO + (0.9)*RISK + (0.8)*AGRO + (0.8)*UPRO + (0.8)*LUDD + (0.75)*TAPP + (0.75)*LESS + (0.6)*ROBO + (0.5)*MORE + (0.4)*SUPR + (0.4)*DATA + (0.35)*FARM + (0.3)*WSTE + (0.2)*PMED + (0.2)*MEMA + (0.1)*URGY + (0)*BSIC + (0)*WATR + (0)*NONH + (-0.15)*DCEN + (-0.25)*SIMS + (-0.3)*INTR + (-0.4)*MAGC + (-0.5)*PROS + (-0.5)*BIOM + (-0.6)*PLUN + (-0.65)*LIQD + (-0.7)*BETA + (-0.8)*COIP + (-0.85)*ANON + (-0.9)*PRID + (-0.9)*CFAM + (-0.9)*DRUG + (-1)*NOID + (-1)*WTHR"
     },
     {
-      "name": "Communal",
-      "call_sign": "CMMN",
+      "name": "Scope",
+      "call_sign": "SCOP",
       "author": "Åzone",
       "abstract": "TK",
-      "formula": "(1)*ALGO + (1)*NONH + (0.9)*LUDD + (0.9)*LIQD + (0.9)*DIRC + (0.85)*PLAN + (0.8)*ENGY + (0.8)*CRON + (0.7)*PLUN + (0.7)*WTHR + (0.65)*WSTE + (0.5)*COIP + (0.45)*UPRO + (0.4)*MAGC + (0.35)*DTAX + (0.35)*VCOM + (0.3)*CHNA + (0.3)*INTR + (0.2)*MINE + (0.15)*FARM + (0.1)*LESS + (0.1)*WATR + (0.1)*DRUG + (0)*SERV + (0)*SIMS + (0)*NEUT + (0)*TRVL + (-0.1)*BSIC + (-0.1)*CFAM + (-0.2)*AGRO + (-0.2)*MEMA + (-0.25)*NURO + (-0.3)*BIOM + (-0.3)*MIGR + (-0.4)*HELP + (-0.5)*RISK + (-0.5)*MORE + (-0.5)*PROS + (-0.6)*ANON + (-0.65)*ROBO + (-0.65)*DCEN + (-0.7)*GENO + (-0.85)*DRIV + (-0.85)*SUPR + (-0.9)*PRID + (-1)*PMED + (-1)*BETA + (-1)*NOID"
-    },
-    {
-      "name": "Free",
-      "call_sign": "FREE",
-      "author": "Åzone",
-      "abstract": "TK",
-      "formula": "(1)*NOID + (1)*WTHR + (0.95)*TRVL + (0.9)*PRID + (0.9)*CFAM + (0.9)*DRUG + (0.9)*DIRC + (0.85)*ANON + (0.8)*COIP + (0.7)*BETA + (0.7)*GENO + (0.65)*LIQD + (0.6)*MIGR + (0.6)*PLUN + (0.5)*PROS + (0.5)*BIOM + (0.5)*NEUT + (0.4)*MAGC + (0.3)*INTR + (0.25)*SIMS + (0.2)*MINE + (0.15)*DCEN + (0.1)*NURO + (0)*BSIC + (0)*WATR + (0)*CHNA + (0)*NONH + (-0.1)*CRON + (-0.2)*PMED + (-0.2)*MEMA + (-0.2)*VCOM + (-0.3)*HELP + (-0.3)*WSTE + (-0.35)*FARM + (-0.4)*SUPR + (-0.4)*DTAX + (-0.45)*PLAN + (-0.5)*MORE + (-0.6)*ROBO + (-0.7)*ENGY + (-0.75)*SERV + (-0.75)*LESS + (-0.8)*AGRO + (-0.8)*UPRO + (-0.8)*LUDD + (-0.9)*RISK + (-1)*DRIV + (-1)*ALGO"
-    },
-    {
-      "name": "Personal",
-      "call_sign": "PERS",
-      "author": "Åzone",
-      "abstract": "TK",
-      "formula": "(1)*PMED + (1)*BETA + (1)*NOID + (0.9)*PRID + (0.85)*DRIV + (0.85)*SUPR + (0.7)*GENO + (0.65)*ROBO + (0.65)*DCEN + (0.6)*ANON + (0.5)*RISK + (0.5)*MORE + (0.5)*PROS + (0.4)*HELP + (0.3)*BIOM + (0.3)*MIGR + (0.25)*NURO + (0.2)*AGRO + (0.2)*MEMA + (0.1)*BSIC + (0.1)*CFAM + (0)*SERV + (0)*SIMS + (0)*NEUT + (0)*TRVL + (-0.1)*LESS + (-0.1)*WATR + (-0.1)*DRUG + (-0.15)*FARM + (-0.2)*MINE + (-0.3)*CHNA + (-0.3)*INTR + (-0.35)*DTAX + (-0.35)*VCOM + (-0.4)*MAGC + (-0.45)*UPRO + (-0.5)*COIP + (-0.65)*WSTE + (-0.7)*PLUN + (-0.7)*WTHR + (-0.8)*ENGY + (-0.8)*CRON + (-0.85)*PLAN + (-0.9)*LUDD + (-0.9)*LIQD + (-0.9)*DIRC + (-1)*ALGO + (-1)*NONH"
+      "high": "Communal",
+      "low": "Personal",
+      "formula": "(1)*ALGO + (1)*NONH + (0.9)*LUDD + (0.9)*LIQD + (0.8)*URGY + (0.7)*PLUN + (0.7)*WTHR + (0.65)*WSTE + (0.5)*COIP + (0.45)*UPRO + (0.4)*MAGC + (0.35)*DATA + (0.3)*INTR + (0.15)*FARM + (0.1)*LESS + (0.1)*WATR + (0.1)*DRUG + (0)*TAPP + (0)*SIMS + (-0.1)*BSIC + (-0.1)*CFAM + (-0.2)*AGRO + (-0.2)*MEMA + (-0.3)*BIOM + (-0.5)*RISK + (-0.5)*MORE + (-0.5)*PROS + (-0.6)*ANON + (-0.65)*ROBO + (-0.65)*DCEN + (-0.85)*DRIV + (-0.85)*SUPR + (-0.9)*PRID + (-1)*PMED + (-1)*BETA + (-1)*NOID"
     }
   ]
 }
